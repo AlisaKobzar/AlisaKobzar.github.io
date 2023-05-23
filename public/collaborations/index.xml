@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaborations on Alisa Kobzar</title>
+    <link>https://example.org/collaborations/</link>
+    <description>Recent content in Collaborations on Alisa Kobzar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/collaborations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.One</title>
+      <link>https://example.org/collaborations/one/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/collaborations/one/</guid>
+      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
+    </item>
+    
+    <item>
+      <title>Pastry jelly cookie sugar donut orange</title>
+      <link>https://example.org/collaborations/design1/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/collaborations/design1/</guid>
+      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
+Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
+Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+    </item>
+    
+    <item>
+      <title>autonomous systems</title>
+      <link>https://example.org/collaborations/autonomoussystems/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/collaborations/autonomoussystems/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+    <item>
+      <title>SID</title>
+      <link>https://example.org/collaborations/sid/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/collaborations/sid/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+    <item>
+      <title>TUER</title>
+      <link>https://example.org/collaborations/tuer/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/collaborations/tuer/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+    <item>
+      <title>Water_nightdreams</title>
+      <link>https://example.org/collaborations/possession/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/collaborations/possession/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+    <item>
+      <title>Water_nightdreams</title>
+      <link>https://example.org/collaborations/water_nightdreams/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/collaborations/water_nightdreams/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+  </channel>
+</rss>
