@@ -1,4 +1,0 @@
----
-title: Sound directing
----
-
