@@ -5,7 +5,7 @@ theme = "digitalgarden"
 
 [Params]
   description = "Alisa Kobzar Portfolio"
-  images = ['/digital-garden-logo.png']
+  images = ['favicon.ico']
   enableSearch = true
 
 [menu]
