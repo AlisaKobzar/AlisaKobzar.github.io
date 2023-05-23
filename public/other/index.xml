@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Other on Alisa Kobzar</title><link>https://example.org/other/</link><description>Recent content in Other on Alisa Kobzar</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/other/index.xml" rel="self" type="application/rss+xml"/><item><title>Veni Vidi VR</title><link>https://example.org/other/venividivr/</link><pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate><guid>https://example.org/other/venividivr/</guid><description>4 channels music for gamified VR theatrical performance (for flute and electronics)</description></item><item><title>musicfor2ads</title><link>https://example.org/other/musicfor2ads/</link><pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate><guid>https://example.org/other/musicfor2ads/</guid><description>for 3 female voices</description></item><item><title>musicfor2trailers</title><link>https://example.org/other/musicfor2trailers/</link><pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate><guid>https://example.org/other/musicfor2trailers/</guid><description>for 3 female voices</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Alisa Kobzar</title>
+    <link>https://example.org/other/</link>
+    <description>Recent content in Other on Alisa Kobzar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Veni Vidi VR</title>
+      <link>https://example.org/other/venividivr/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/other/venividivr/</guid>
+      <description>4 channels music for gamified VR theatrical performance (for flute and electronics)</description>
+    </item>
+    
+    <item>
+      <title>musicfor2ads</title>
+      <link>https://example.org/other/musicfor2ads/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/other/musicfor2ads/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+    <item>
+      <title>musicfor2trailers</title>
+      <link>https://example.org/other/musicfor2trailers/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>https://example.org/other/musicfor2trailers/</guid>
+      <description>for 3 female voices</description>
+    </item>
+    
+  </channel>
+</rss>
