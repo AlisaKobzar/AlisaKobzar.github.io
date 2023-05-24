@@ -20,18 +20,37 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-September 2023 : "Floating pointers (D)" @ Ultima festival (Oslo) 
+July 2023 : [Impuls](https://www.impuls.cc/) academy and festival @ Graz `role: sound director, sound director's assistant, electronic music performer`
+
+July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
+
+September 2023 : [Floating pointers (D)]() @ Ultima festival (Oslo) `role: composer`
+
+<hr />
+
+**Ongoing:**
+
+2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
+
+2023: COCreations opera "The end of the world" `role: AR developer, HCI designer, motion capture technician`
 
 <hr />
 
 **Last:**
 
-February 2023 : *"as soon as (Paradise)"* for horn and bass-trombone (2012) @ Provinzlärm Festival (Eckernförde)
+May 2023 : [PRISM #10 „Anamorphosis“](https://www.reaktor.art/programm/airborne-extended) concert in Reaktor (Vienna) `role: sound director, electronic music performer`
 
-February 2023 : *"Quadro"* for ensemble (2015) @ Provinzlärm Festival (Eckernförde)
+May 2023 : [SONify!](https://sonify.at/) festival `role: video documentation`
 
-February 2023 : *"Floating pointers (C)"* (2023) @ Provinzlärm Festival (Eckernförde)
+February 2023 : [as soon as (Paradise)](https://alisakobzar.github.io/acoustic/assoonasparadise/) for horn and bass-trombone (2012) @ Provinzlärm Festival (Eckernförde) *role: composer*
 
-February 2023 : Workshop  @ "Tanz:digital" (Berlin)
+February 2023 : [Quadro](https://alisakobzar.github.io/acoustic/quadro/) for ensemble (2015) @ Provinzlärm Festival (Eckernförde) `role: composer`
 
-January 2023 : Poster @ Symposium "Co-creation" (St.Pölten)
+February 2023 : [Floating pointers (C)](https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersabc/) (2023) @ Provinzlärm Festival (Eckernförde) `role: composer`
+
+February 2023 : [Workshop](https://www.facebook.com/events/817990879254899/?paipv=0&eav=AfYfVLF7D-KJVZMRScmJLrV42rcUoi_kfbSzoI-aeht9HGCizA86QB9GP789D3RExCI&_rdr)  @ "Tanz:digital" (Berlin) `role: participant`
+
+January 2023 : [Poster](https://drive.google.com/file/d/1t02Ne2klwMuecEiia4Wm3UqLn4ShcUte/view) @ Symposium "Co-creation" (St.Pölten) `role: poster autor`
+
+
+
