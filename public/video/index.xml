@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Alisa Kobzar</title>
+    <link>https://example.org/video/</link>
+    <description>Recent content in Video on Alisa Kobzar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One</title>
+      <link>https://example.org/video/one/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/video/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pastry jelly cookie sugar donut orange</title>
+      <link>https://example.org/video/swapspace/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/video/swapspace/</guid>
+      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
+Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
+Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+    </item>
+    
+  </channel>
+</rss>
