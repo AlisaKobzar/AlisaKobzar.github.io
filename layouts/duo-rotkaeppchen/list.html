@@ -1,11 +1,7 @@
 {{ define "main" }}
 
 {{ $description := .Description }}
-{{ range (.Paginate .Site.RegularPages).Pages }}
-    {{ if ne .Title "rotkaeppchen CV (EN)" }}
-        {{ .Render "summary" }}
-    {{ end }}
-{{ end }}
+
 <main class="h-screen overflow-y-auto w-full">
   <section class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20">
     <a href="{{ .Permalink }}" class="inline-block">
