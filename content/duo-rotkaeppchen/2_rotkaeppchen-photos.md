@@ -1,7 +1,7 @@
 ---
-title: 2. rotkaeppchen-photos
+title: rotkaeppchen-photos
 date: 2023-02-02
-draft: true
+
 ---
 
 {{< figure src="/photos/rotkaeppchen_u92_xor.jpg" >}}
