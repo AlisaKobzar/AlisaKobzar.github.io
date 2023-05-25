@@ -1,5 +1,8 @@
 ---
 title: poetry
-date: 2013
+date: 2013-01-01
 ---
-for 3 female voices
+for voice and interactive live electronics
+voice and poetry: Olena Stepanenko
+
+{{< soundcloud-track 342598997 >}}

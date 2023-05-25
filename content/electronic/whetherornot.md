@@ -1,5 +1,9 @@
 ---
-title: whetherornot
-date: 2013
+title: whether or not
+date: 2017-01-01
 ---
-for 3 female voices
+fixed electronics
+
+music festival in Portugal
+
+{{< soundcloud-track 350282812 >}}

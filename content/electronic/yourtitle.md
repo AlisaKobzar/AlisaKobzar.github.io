@@ -1,5 +1,7 @@
 ---
-title: yourtitle
-date: 2013
+title: (your title)
+date: 2018-01-01
 ---
-for 3 female voices
+for interactive audio-visual system
+
+{{< youtube xTxmCZ-HRjg >}}
