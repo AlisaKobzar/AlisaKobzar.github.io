@@ -5,7 +5,7 @@ theme = "digitalgarden"
 
 [Params]
   description = "Alisa Kobzar Portfolio"
-  images = ['favicon.ico']
+  images = ['/favicon.ico']
   enableSearch = true
 
 [menu]
@@ -40,53 +40,57 @@ theme = "digitalgarden"
   url = '/duo-rotkaeppchen'
   weight = 8
 [[menu.main]]
+  name = 'Duo-with-A.-Vorobiova'
+  url = '/duo-nastia'
+  weight = 9
+[[menu.main]]
   name = 'Installations'
   url = '/installations'
-  weight = 9
+  weight = 10
 [[menu.main]]
   name = 'Collaborations'
   url = '/collaborations'
-  weight = 10
+  weight = 11
 
 
 [[menu.main]]
   name = 'Activities'
   params.header = true
-  weight = 11
-[[menu.main]]
-  name = 'Video'
-  url = '/video'
   weight = 12
 [[menu.main]]
-  name = 'Game-dev'
-  url = '/gamedev'
+  name = 'Video-design, filming'
+  url = '/video'
   weight = 13
+[[menu.main]]
+  name = 'HCI, GameDev, NotGameDev'
+  url = '/gamedev'
+  weight = 14
 [[menu.main]]
   name = 'Sound-directing'
   url = '/sounddir'
-  weight = 14
+  weight = 15
 [[menu.main]]
   name = 'Writings'
   url = '/writings'
-  weight = 15
+  weight = 16
 
 [[menu.main]]
   name = 'Other'
   url = '/other'
-  weight = 16
+  weight = 17
 
 [[menu.main]]
   name = 'About me'
   params.header = true
-  weight = 17
-[[menu.main]]
-  name = 'CV (EN)'
-  url = '/cv-en'
   weight = 18
+[[menu.main]]
+  name = 'CV'
+  url = '/cv-en'
+  weight = 19
 [[menu.main]]
   name = 'Photos'
   url = '/photos'
-  weight = 19
+  weight = 20
 
 
 

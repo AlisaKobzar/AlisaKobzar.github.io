@@ -26,6 +26,10 @@ July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/instal
 
 September 2023 : [Floating pointers (D)]() @ Ultima festival (Oslo) `role: composer`
 
+October 2023 : Concert @ Kultum (Graz) `role: sound director, composer`
+
+November 2023 : rotkäppchen performance @ Eckernförde `role: composer, multimedia artist`
+
 <hr />
 
 **Ongoing:**
