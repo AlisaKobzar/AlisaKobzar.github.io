@@ -1,6 +1,7 @@
 ---
 title: 1.One
 date: 2023-02-02
+draft: true
 ---
 
 “Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition. The musical “theses” of the diary were formed from the “content”, and these, in turn, became the material for the “summary” — a concentrated introduction to each of the chapters of the “book”. The “introductions” themselves are an iterative (repetitive) process of changing the elements of musical language, which was implemented in SuperCollider. The different processes of timbre modification and selective recombination of clarinet part (performed by Dmytro Pashinsky) were the main parameters influenced by data graphs modified into numerical and audio streams. Later I plan to write the material of the “sections” and “subsections”.

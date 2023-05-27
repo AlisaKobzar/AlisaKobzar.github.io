@@ -1,5 +1,10 @@
 ---
 title: Afflatus
-date: 2013
+date: 2014-01-01
 ---
-this space will be filled soon
+For oboe, clarinet , piano, french horn, electronics and lights.
+
+Ensemble Nostri Termporis, festival in Krakow
+
+{{< soundcloud-track 155857574 >}}
+ 

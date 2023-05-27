@@ -1,15 +1,14 @@
 ---
-title: Pastry jelly cookie sugar donut orange
-date: 2021-12-18
-images:
-- https://i.picsum.photos/id/1042/400/300.jpg?hmac=rBcizcYvtdgLbwltE3uU3EWyFbuBGpyy9C2YilmohL0
-description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.
+title: Swap Space
+date: 2022-04-18
 ---
 
-Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
+Research assistant of the artistic research project SwapSpace.
 
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla. 
+[Swap Space](https://www.researchcatalogue.net/view/1562714/1562715) is a pilot project (spring 2022) at the University of Music and Performing Arts Graz that focused on novel forms of collaborative artistic research in which otherness, difference and distance between the participants are central and are brought into a cohesive form via the concept of the spatial. 
 
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry. 
+`role: video documentation`
 
-Marzipan vanilla cookie biscuit jelly muffin ipsum cream vanilla tiramisu. Marzipan vanilla sweet tiramisu pastry cake jelly jelly pastry cake. Cookie sweet donut candy pastry apple dolor orange lollipop biscuit. Muffin cream ipsum ipsum sprinkles sugar tiramisu pastry sweet tiramisu. 
+[Research catalogue contribution](https://www.researchcatalogue.net/view/1562714/1705984)
+
+[Article in the project's catalogue](https://www.researchcatalogue.net/view/1562714/1767350)

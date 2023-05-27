@@ -1,5 +1,8 @@
 ---
-title: artificial soundscapes
-date: 2013
+title: Artificial Soundscapes
+date: 2016-01-01
 ---
-this space will be filled soon
+
+For 2 violins, interactive score, 4-channels live electronics and video art.
+
+{{< youtube 62APVEwXe0M >}}

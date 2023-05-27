@@ -1,5 +1,8 @@
 ---
-title: someofthosestories
+title: some of those stories
 date: 2013
 ---
-this space will be filled soon
+
+Fixed media, mono
+
+{{< soundcloud-track 406176147 >}}

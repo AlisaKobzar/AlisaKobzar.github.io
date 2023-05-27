@@ -1,5 +1,9 @@
 ---
 title: interference-2
-date: 2013
+date: 2015-01-01
 ---
-this space will be filled soon
+changes of the character, damaging, consequences of influences, mutual suppression, competition, oppression... Memories, which are being erased. Information overload. - interference.
+
+Fixed media.
+
+{{< soundcloud-track 170763774 >}}

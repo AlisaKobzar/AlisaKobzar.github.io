@@ -1,10 +1,11 @@
 ---
 title: W'air
-date: 2013-01-01
+date: 2017-01-01
 ---
 
 for performer with interactive system. 
-Visuals: Nastia Volobiova
-Krakow.
+Visuals: Nastia Vorobiova.
+
+Krakow. AudioArt festival
 
 {{< youtube rufUeTwUOog >}}

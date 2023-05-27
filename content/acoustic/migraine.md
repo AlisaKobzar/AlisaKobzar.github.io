@@ -1,5 +1,9 @@
 ---
 title: migraine
-date: 2013
+date: 2011-01-01
 ---
-this space will be filled soon 
+For 5 performers with various instruments.
+
+Ensemble Nostri Temporis project "Small Tragedies"-2.
+
+{{< youtube NUQmVZ1Av6A >}}

@@ -1,5 +1,7 @@
 ---
-title: energy
+title: Energy
 date: 2013
 ---
-this space will be filled soon
+For tenor Saxophone, EMG-sensors gesture controller(Roman Fotuima) and live electronics.
+
+{{< soundcloud-track 342222653 >}}
