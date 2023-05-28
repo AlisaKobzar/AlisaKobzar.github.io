@@ -70,14 +70,9 @@ theme = "digitalgarden"
   url = '/sounddir'
   weight = 15
 [[menu.main]]
-  name = 'Writings'
+  name = 'Texts'
   url = '/writings'
   weight = 16
-
-[[menu.main]]
-  name = 'Other'
-  url = '/other'
-  weight = 17
 
 [[menu.main]]
   name = 'About me'

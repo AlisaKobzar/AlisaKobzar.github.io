@@ -1,6 +1,6 @@
 ---
 title: Energy
-date: 2013
+date: 2017-01-01
 ---
 For tenor Saxophone, EMG-sensors gesture controller(Roman Fotuima) and live electronics.
 

@@ -1,6 +1,6 @@
 ---
 title: Night Dreams of Water
-date: 01-01-2020
+date: 2020-01-01
 ---
 
 An experience inspired by water, nigh dreams and how we can experience these in a disembodied space, together. One main hubs room leads to three others, loosely inspired by the following words: "one can never step in the same river twice'" "what water will bring, will be taken away by water again," "from water to air, holding and suspending, and then releasing and surfacing.
