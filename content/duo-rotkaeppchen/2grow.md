@@ -4,6 +4,6 @@ date: 2023-02-02
 draft: true
 ---
 
-Full performance:
+Excerpt from the performance:
 
-{{< youtube plYGNiWtH7c >}}
+{{< youtube >}}

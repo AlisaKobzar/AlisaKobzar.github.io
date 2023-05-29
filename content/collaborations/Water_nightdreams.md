@@ -9,6 +9,10 @@ Collaboratively developed as a part of [LabO "ChampdAction" programme](https://w
 
 `role: composer, multimedia artist, web dev, motion capturing artist`
 
+Video fragment:
+
+{{< vimeo 452642972 >}}
+
 [Mozilla Hubs](https://hubs.mozilla.com/vZ4Sohg/water-night-dreams)
 
 

@@ -1,8 +1,15 @@
 ---
 title: grasshoppers
 date: 2020-02-02
-draft: true
+
 ---
 
-Dance performance in Kunsthaus Graz (Open Mic series)
-Video upcoming...
+Installation and dance performance with the [IKO](https://iko.sonible.com/) in Kunsthaus Graz (Open Mic series).
+
+Choreography and concept: Lisa Mc Guire
+Music: Alisa Kobzar
+Performers: Johanna Schmied-Schimeczek, Carmen Barbalata, Blessing Emweghere, Valentina Sander
+
+Excerpt:
+
+{{< youtube PNOMsg7D8Ss >}}

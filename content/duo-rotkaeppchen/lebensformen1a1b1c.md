@@ -15,7 +15,7 @@ Choreography, dance, performance: Felix Chang, Lisa Mc Guire
 Motion capture, visuals, sound: Alisa Kobzar
 
 1a - rehearsal
-{{< youtube Yhm3O01N4GI >}}
+{{< youtube  >}}
 
 1b - [performance](https://vimeo.com/544515084#t=3237s)
 

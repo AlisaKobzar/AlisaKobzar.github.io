@@ -13,8 +13,8 @@ Created within the project [Pandemic media space](https://pandemic-media-space.c
 
 [a short interview](https://theclaquers.com/en/posts/6520)
 
-Prototype:
+excerpts from the Prototype and Encapsulated Chapters:
 
-{{< youtube TN_TI7q7UB0 >}}
+{{< youtube >}}
 
-[Mozilla Hubs Version](https://hubs.mozilla.com/yHEu7nh/earth-diary-encapsulated-chapters)
+[Mozilla Hubs Encapsulated chapters](https://hubs.mozilla.com/yHEu7nh/earth-diary-encapsulated-chapters)
