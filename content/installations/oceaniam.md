@@ -6,8 +6,9 @@ date: 2022-01-01
 
 performed at the Elevate festival (Graz) ver.1 for IKO and Audio Art festival (Krakow) ver.2 for 8 channels audio
 
+{{< soundcloud-track 1525039231 >}}
+
 {{< figure src="/photos/IMG_4518.JPG" >}}
 {{< figure src="/photos/IMG_4515.JPG" >}}
 {{< figure src="/photos/IMG_4526.JPG" >}}
-
 

@@ -11,4 +11,8 @@ Collaboration with Taya Kabaeva (visual design)
 
 [current web version of the game](https://play.unity.com/mg/other/tayaalisaprjct)
 
+Short video excerpt:
+
+{{< youtube XTTWqc-hl3k >}}
+
 project's revision is currently in progress.

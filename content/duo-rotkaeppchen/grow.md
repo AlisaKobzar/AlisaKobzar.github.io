@@ -8,7 +8,14 @@ The piece explores the transformative relationships between the body and technol
 
 [Read more](https://rotk3ppchen.weebly.com/grow.html) about the project.
 
-trailer:
+trailer of "grow":
 
 {{< youtube P38FThfR5kA >}}
+
+
+Updated version of the piece is called "2GROW"
+
+Excerpt from "2GROW":
+
+{{< youtube GWOhIjPyvK4 >}}
 

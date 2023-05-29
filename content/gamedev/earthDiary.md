@@ -15,6 +15,6 @@ Created within the project [Pandemic media space](https://pandemic-media-space.c
 
 excerpts from the Prototype and Encapsulated Chapters:
 
-{{< youtube >}}
+{{< youtube yzQPAqmhSck >}}
 
 [Mozilla Hubs Encapsulated chapters](https://hubs.mozilla.com/yHEu7nh/earth-diary-encapsulated-chapters)
