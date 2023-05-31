@@ -108,7 +108,7 @@ BA in computer music - Institute of Electronic Music and Acoustics/KUG (Graz, Au
 
 - 2011-2019
 
-Numerous international composers' masterclasses on instrumental and electronic music (prof. G.Stäbler, S.Newski, S.Piliutikov, K.Baukcholt, M.Smolka, Dm.Kurliandsky, J.Kreidler, Ph.Leroux, Fr.Filidei, M.Wierzbicki, M.Choloniewski, M.Strzelecki, R.Bellis, J.Reis, A.Zagaikevych, A.Parmerud, M.Özer; festivals, workshops.  
+Numerous international composers' masterclasses on instrumental and electronic music (prof. G.Stäbler, S.Newski, S.Piliutikov, K.Baukcholt, M.Smolka, Dm.Kurliandsky, J.Kreidler, Ph.Leroux, Fr.Filidei, M.Wierzbicki, M.Choloniewski, M.Strzelecki, R.Bellis, J.Reis, A.Zagaikevych, A.Parmerud, M.Özer); festivals, workshops.  
 
 - 2017
 

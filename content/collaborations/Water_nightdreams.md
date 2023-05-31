@@ -9,6 +9,9 @@ Collaboratively developed as a part of [LabO "ChampdAction" programme](https://w
 
 `role: composer, multimedia artist, web dev, motion capturing artist`
 
+{{< figure src="/photos/water.png" >}}
+
+
 Video fragment:
 
 {{< vimeo 452642972 >}}
