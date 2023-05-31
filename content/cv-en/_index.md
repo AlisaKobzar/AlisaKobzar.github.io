@@ -88,11 +88,13 @@ For video jobs please refer to [this link](https://alisakobzar.github.io/video/)
 
 **Other work/artistic experiences**
 
--2000 - 2014 - regular participation in the numerous joined concerts, children's competitions (laureate, diplomate), solo recitals `role: pianist, composer`
+
+-2011 - 2017 - music scores engraving at the [Muzychna Ukraina](http://www.noty.kiev.ua/ua/) score publishing house.
 
 -2009 - 2014 - regular participation in the numerous joined concerts `role: composer, singer, multi instrumentalist`
 
--2011 - 2017 - music scores engraving at the [Muzychna Ukraina](http://www.noty.kiev.ua/ua/) score publishing house.
+-2000 - 2014 - regular participation in the numerous joined concerts, children's competitions (laureate, diplomate), solo recitals `role: pianist, composer`
+
 
 <hr />
 
