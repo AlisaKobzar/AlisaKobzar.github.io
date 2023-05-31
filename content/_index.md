@@ -20,6 +20,8 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
+June 2023: [S](https://www.bonn.de/veranstaltungskalender/veranstaltungen/hauptkalender/extern/Festival-fuer-Neue-Musik-aus-der-Ukraine-6.Chorwerke.php) for 3 female voices @ Widerstand der Klänge - Festival für Neue Musik aus der Ukraine Bonn `role: composer`
+
 July 2023 : [Impuls](https://www.impuls.cc/) academy and festival @ Graz `role: sound director, sound director's assistant, electronic music performer`
 
 July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
@@ -36,7 +38,13 @@ November 2023 : rotkäppchen performance @ Eckernförde `role: composer, multime
 
 2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
 
-2023: COCreations opera "The end of the world" `role: AR developer, HCI designer, motion capture technician`
+2023: COCreations opera production `role: AR developer, HCI designer, motion capture technician/artist`
+
+"Floating pointers (D)" for [duo rotkäppchen](https://alisakobzar.github.io/duo-rotkaeppchen/)
+
+New composition for [LAKT Ensemble](https://www.laktensemble.com/)
+
+New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/stimmen/helena-sorokina/)
 
 <hr />
 

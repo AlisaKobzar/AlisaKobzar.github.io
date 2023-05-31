@@ -11,4 +11,4 @@ Research assistant of the artistic research project SwapSpace.
 
 [Research catalogue contribution](https://www.researchcatalogue.net/view/1562714/1705984)
 
-[Article in the project's catalogue](https://www.researchcatalogue.net/view/1562714/1767350)
+[Article in the project catalogue](https://www.researchcatalogue.net/view/1562714/1767350)
