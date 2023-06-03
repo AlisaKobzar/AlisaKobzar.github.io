@@ -19,5 +19,5 @@ title: Texts
 
 - Alisa Kobzar, Benedikt Brands, Valerian Drack, Jakob Leitner, Katharina Groß-Vogt, Clemens Amon. [The Anthropocene Maze – an interactive listening experience of our ecological footprint on selected habitats.](https://sidlab.iem.sh/publication/#1), Proceedings of the Conference on Data Art for Climate Action 2022.  
 
-- Alyssa Aska, Alisa Kobzar, Alexander Kremser, Margarethe Maierhofer-Lischka, Daniele Pozzi [as if they were flowers](https://2021.xcoax.org/xCoAx2021.pdf), xCoAx proceedings 2021
+- Alyssa Aska, Alisa Kobzar, Alexander Kremser, Margarethe Maierhofer-Lischka, Daniele Pozzi [as if they were flowers](https://2021.xcoax.org), xCoAx proceedings 2021
 
