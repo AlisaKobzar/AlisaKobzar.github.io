@@ -1,6 +1,6 @@
 baseURL = "https://alisakobzar.github.io/"
 languageCode = "en-us"
-title = "Alisa Kobzar - composer, multimedia artist webpage"
+title = "Alisa Kobzar"
 theme = "digitalgarden"
 
 [Params]
