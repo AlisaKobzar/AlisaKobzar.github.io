@@ -1,10 +1,10 @@
 baseURL = "https://alisakobzar.github.io/"
 languageCode = "en-us"
-title = "Alisa Kobzar"
+title = "Alisa Kobzar - composer, multimedia artist webpage"
 theme = "digitalgarden"
 
 [Params]
-  description = "Alisa Kobzar Portfolio"
+  description = "Alisa Kobzar's portfolio webpage"
   images = ['/favicon.ico']
   enableSearch = true
 
