@@ -20,7 +20,7 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-June 2023: [S](https://www.bonn.de/veranstaltungskalender/veranstaltungen/hauptkalender/extern/Festival-fuer-Neue-Musik-aus-der-Ukraine-6.Chorwerke.php) for 3 female voices @ Widerstand der Klänge - Festival für Neue Musik aus der Ukraine Bonn `role: composer`
+June 2023: [S](https://www.bonn.de/veranstaltungskalender/veranstaltungen/hauptkalender/extern/Festival-fuer-Neue-Musik-aus-der-Ukraine-6.Filmvorfuehrung.php) for 3 female voices @ Widerstand der Klänge - Festival für Neue Musik aus der Ukraine Bonn `role: composer`
 
 July 2023 : [Impuls](https://www.impuls.cc/) academy and festival @ Graz `role: sound director, sound director's assistant, electronic music performer`
 
