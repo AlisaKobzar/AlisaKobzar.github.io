@@ -10,6 +10,3 @@ Choreography and concept: Lisa Mc Guire
 Music: Alisa Kobzar
 Performers: Johanna Schmied-Schimeczek, Carmen Barbalata, Blessing Emweghere, Valentina Sander
 
-Excerpt:
-
-{{< youtube PNOMsg7D8Ss >}}
