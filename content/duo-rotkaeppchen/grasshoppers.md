@@ -10,3 +10,4 @@ Choreography and concept: Lisa Mc Guire
 Music: Alisa Kobzar
 Performers: Johanna Schmied-Schimeczek, Carmen Barbalata, Blessing Emweghere, Valentina Sander
 
+[More about the project](https://mcguire.at/Grasshoppers_Kunsthaus.html)
