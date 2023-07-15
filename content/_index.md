@@ -20,27 +20,30 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-June 2023: [S](https://www.bonn.de/veranstaltungskalender/veranstaltungen/hauptkalender/extern/Festival-fuer-Neue-Musik-aus-der-Ukraine-6.Filmvorfuehrung.php) for 3 female voices @ Widerstand der Klänge - Festival für Neue Musik aus der Ukraine Bonn `role: composer`
-
 July 2023 : [Impuls](https://www.impuls.cc/) academy and festival @ Graz `role: sound director, sound director's assistant, electronic music performer`
 
-July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
+September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) residency @ [RITMO](https://www.uio.no/ritmo/english/) and performance @ Ultima festival `role: composer`
 
-September 2023 : [Floating pointers (D)]() @ Ultima festival (Oslo) `role: composer`
+September 2023 : workshops (*rotkaeppchen*) @ [Choreographic Coding Labs](https://choreographiccoding.org/#/) in Cologne `role: participant - interaction designer, programmer, composer, multimedia artist`
 
-October 2023 : Concert @ Kultum (Graz) `role: sound director, composer`
+October 2023 : premiere of the new composition @ EM-Visia festival
 
-November 2023 : rotkäppchen performance @ Eckernförde `role: composer, multimedia artist`
+January 2024 : Concert @ Kultum (Graz) `role: sound director, composer`
+
+February 2024 :  video documentation of the [artistic research](https://intertwiningarts.org/) by [Elina Akselrud](https://elinaakselrud.com/) `role: video documentation`
+
 
 <hr />
 
 **Ongoing:**
 
+July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
+
 2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
 
-2023: COCreations opera production `role: AR developer, HCI designer, motion capture technician/artist`
-
 "Floating pointers (D)" for [duo rotkäppchen](https://alisakobzar.github.io/duo-rotkaeppchen/)
+
+New composition for EM-Visia festival
 
 New composition for [LAKT Ensemble](https://www.laktensemble.com/)
 
@@ -49,6 +52,10 @@ New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/s
 <hr />
 
 **Last:**
+
+July 2023: film production of the [artistic research](https://intertwiningarts.org/) by [Elina Akselrud](https://elinaakselrud.com/) `role: filmmaker`
+
+June 2023: [S](https://www.bonn.de/veranstaltungskalender/veranstaltungen/hauptkalender/extern/Festival-fuer-Neue-Musik-aus-der-Ukraine-6.Filmvorfuehrung.php) for 3 female voices @ Widerstand der Klänge - Festival für Neue Musik aus der Ukraine Bonn `role: composer`
 
 May 2023 : [PRISM #10 „Anamorphosis“](https://www.reaktor.art/programm/airborne-extended) concert in Reaktor (Vienna) `role: sound director, electronic music performer`
 
@@ -62,7 +69,7 @@ February 2023 : [Floating pointers (C)](https://alisakobzar.github.io/duo-rotkae
 
 February 2023 : [Workshop](https://www.facebook.com/events/817990879254899/?paipv=0&eav=AfYfVLF7D-KJVZMRScmJLrV42rcUoi_kfbSzoI-aeht9HGCizA86QB9GP789D3RExCI&_rdr)  @ "Tanz:digital" (Berlin) `role: participant`
 
-January 2023 : [Poster](https://drive.google.com/file/d/1t02Ne2klwMuecEiia4Wm3UqLn4ShcUte/view) @ Symposium "Co-creation" (St.Pölten) `role: poster autor`
+January 2023 : [Poster](https://drive.google.com/file/d/1t02Ne2klwMuecEiia4Wm3UqLn4ShcUte/view) @ Symposium "Co-creation" (St.Pölten) `role: author of the poster`
 
 
 
