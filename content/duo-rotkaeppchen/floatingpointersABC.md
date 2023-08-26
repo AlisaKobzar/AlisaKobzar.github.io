@@ -15,6 +15,14 @@ Here is a short comparison between the snippets from the version A and version B
 
 {{< youtube kuJ0iRd8-Ic >}}
 
+Version C (photos)
+
+{{< figure src="/photos/20230225-plf-1815-bearbeitet-1-_c2000_2000.jpg" >}}
+{{< figure src="/photos/20230225-plf-2360-bearbeitet-1-_c2000_2000.jpg" >}}
+{{< figure src="/photos/20230225-plf-2795-bearbeitet-1-_c2000_2000.jpg" >}}
+{{< figure src="/photos/photos/20230225-plf-2806-bearbeitet-1-_c2000_2000.jpg" >}}
+
+
 This project became a basis for my [thesis](https://alisakobzar.github.io/writings/) and a [poster](https://alisakobzar.github.io/writings/).
 
 Read about the [version D](https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersd/)
