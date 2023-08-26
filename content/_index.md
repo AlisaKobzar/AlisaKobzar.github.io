@@ -37,6 +37,8 @@ February 2024 :  video documentation of the [artistic research](https://intertwi
 
 **Ongoing:**
 
+August 2023 : Leap_OSC bridge for Leap Motion 2 controller and Gemini SDK together with [Jan-Bas Bollen](https://jbbollen.net/) `role: developer`
+
 July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
 
 2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
