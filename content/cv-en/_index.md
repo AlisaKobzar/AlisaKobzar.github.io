@@ -139,12 +139,5 @@ Pianist, composer - Musical School #4, Regional Musical School (Kherson, Ukraine
 
 
 ---
-title: List of compositions since 2012
-date: 2023-02-02
-
----
-
-<hr />
-
 
 
