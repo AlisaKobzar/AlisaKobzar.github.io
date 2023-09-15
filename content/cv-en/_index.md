@@ -6,7 +6,7 @@ Alisa Kobzar (*1989, Kherson(Ukraine)), composer, multimedia artist, sound direc
 
 She took part in different international composers' masterclasses on instrumental, electronic, acousmatic music composition (prof. G.Staebler, S.Newsky, S.Pilyutikov, K.Baukholt, M.Smolka, Dm.Kurliandsky, J.Kreidler, Ph.Leroux, Fr.Filidei, J.Reis, A.Zagaikevych, A.Parmerud, M.Ozer, T.Gorbach, A. Vande Gorne etc.), festivals, workshops. 
 
-In 2016 she was the resident of SME (Studio of Electronic Music) Musical Academy in Krakow (Poland) (Gaude Polonia residence programme). Her music is performed in Ukraine, Poland, Germany, Austria, Sweden, Russia, Portugal, Italy, France, USA, Japan, Switzerland, Greece, UK, etc. Her compositions include multidisciplinary and interactive, multimedia art, electronic, electroacoustic, acousmatic, instrumental, chamber, symphonic music, installations and sound art .
+In 2016 she was the resident of SME (Studio of Electronic Music) Musical Academy in Krakow (Poland) (Gaude Polonia residence programme). Her music is performed in Ukraine, Poland, Germany, Austria, Sweden, Portugal, Italy, France, USA, Japan, Switzerland, Greece, UK, etc. Her compositions include multidisciplinary and interactive, multimedia art, electronic, electroacoustic, acousmatic, instrumental, chamber, symphonic music, installations and sound art .
 
 Since 2019 together with Lisa Mc Guire (dance, choreography), Alisa (electronic music composition, multimedia art composition, HCI programming) founded the duo rotkäppchen, which regularly performs their interactive multimedia compositions in Austria and abroad.
 

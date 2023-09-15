@@ -20,13 +20,17 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-6-10 September 2023 : workshops (*rotkaeppchen*) @ [Choreographic Coding Labs](https://choreographiccoding.org/#/) in Cologne `role: participant - interaction designer, programmer, composer, multimedia artist`
-
 16 September 2023: finnisage of [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
 
-17-22 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) residency @ [RITMO](https://www.uio.no/ritmo/english/) and performance @ [Ultima festival](https://www.ultima.no/en/floating-pointers-2) `role: composer, multimedia artist`
+17-22 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) residency @ [RITMO](https://www.uio.no/ritmo/english/) `role: composer, multimedia artist`
+
+20 September 2023 : Presentation "Interaction models underpinning the rotkäppchen process"  @ [RITMO - Food and Paper](https://www.uio.no/ritmo/english/news-and-events/events/food-and-paper/2023/alisa-kobzar/index.html) 
+
+21 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) performance @ [Ultima festival](https://www.ultima.no/en/floating-pointers-2)
 
 October 2023 : premiere of the new composition @ EM-Visia festival
+
+09 - 15 October 2023 : residency @ AdK Berlin
 
 January 2024 : Concert @ Kultum (Graz) `role: sound director, composer`
 
@@ -45,6 +49,8 @@ July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/instal
 
 "Floating pointers (D)" for [duo rotkäppchen](https://alisakobzar.github.io/duo-rotkaeppchen/)
 
+New composition for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/)
+
 New composition for EM-Visia festival
 
 New composition for [LAKT Ensemble](https://www.laktensemble.com/)
@@ -54,6 +60,8 @@ New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/s
 <hr />
 
 **Last:**
+
+6-10 September 2023 : workshops (*rotkaeppchen*) @ [Choreographic Coding Labs](https://choreographiccoding.org/#/) in Cologne `role: participant - interaction designer, programmer, composer, multimedia artist`
 
 July 2023 : [Impuls](https://www.impuls.cc/) academy and festival @ Graz `role: sound director, sound director's assistant, electronic music performer`
 
