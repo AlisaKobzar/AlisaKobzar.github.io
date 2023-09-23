@@ -20,17 +20,11 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-16 September 2023: finnisage of [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
-
-17-22 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) residency @ [RITMO](https://www.uio.no/ritmo/english/) `role: composer, multimedia artist`
-
-20 September 2023 : Presentation "Interaction models underpinning the rotkäppchen process"  @ [RITMO - Food and Paper](https://www.uio.no/ritmo/english/news-and-events/events/food-and-paper/2023/alisa-kobzar/index.html) 
-
-21 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) performance @ [Ultima festival](https://www.ultima.no/en/floating-pointers-2)
+1 October 2023 : [PRISM #11 „SKEW LINES“](https://www.facebook.com/events/258345063833023) concert in Reaktor (Vienna) `role: sound director`
 
 October 2023 : premiere of the new composition @ EM-Visia festival
 
-09 - 15 October 2023 : residency @ AdK Berlin
+09 - 15 October 2023 : residency in the Electronic music Studio @ [Akademie der Künste Berlin](https://www.adk.de/)
 
 January 2024 : Concert @ Kultum (Graz) `role: sound director, composer`
 
@@ -43,13 +37,9 @@ February 2024 :  video documentation of the [artistic research](https://intertwi
 
 August 2023 : Leap_OSC bridge for Leap Motion 2 controller and Gemini SDK together with [Jan-Bas Bollen](https://jbbollen.net/) `role: developer`
 
-July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
-
 2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
 
-"Floating pointers (D)" for [duo rotkäppchen](https://alisakobzar.github.io/duo-rotkaeppchen/)
-
-New composition for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/)
+New composition for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/) and Automatenklavier by W.Ritsch
 
 New composition for EM-Visia festival
 
@@ -60,6 +50,19 @@ New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/s
 <hr />
 
 **Last:**
+
+"Floating pointers (D)" for [duo rotkäppchen](https://alisakobzar.github.io/duo-rotkaeppchen/)
+
+July - September 2023 : [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
+
+
+16 September 2023: finnisage of [privates netzwerk](https://alisakobzar.github.io/installations/privatenetworks/) installation @  [Sonar Park - Präsenz und Verschwinden](https://ima.or.at/de/projekt/sonar_park_23/) (St.Pölten) `role: composer, sound artist`
+
+17-22 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) residency @ [RITMO](https://www.uio.no/ritmo/english/) `role: composer, multimedia artist`
+
+20 September 2023 : Presentation "Interaction models underpinning the rotkäppchen process"  @ [RITMO - Food and Paper](https://www.uio.no/ritmo/english/news-and-events/events/food-and-paper/2023/alisa-kobzar/index.html) 
+
+21 September 2023 : [Floating pointers (D)](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html) (*rotkaeppchen*) performance @ [Ultima festival](https://www.ultima.no/en/floating-pointers-2)
 
 6-10 September 2023 : workshops (*rotkaeppchen*) @ [Choreographic Coding Labs](https://choreographiccoding.org/#/) in Cologne `role: participant - interaction designer, programmer, composer, multimedia artist`
 

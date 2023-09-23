@@ -16,6 +16,18 @@ In this project, the memory is interpreted as a collective cultural subconscious
 
 Premiere: [Ultima contemporary music festival 2023](https://www.ultima.no/en/ultima-2023) in Oslo (Norway)
 
+
+Links:
+[performance @ RITMO](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html)
+
+[performance @ Ultima festival](https://www.ultima.no/en/floating-pointers-2)
+
+[presentation @ RITMO](https://www.uio.no/ritmo/english/news-and-events/events/food-and-paper/2023/alisa-kobzar/index.html)
+
+{{< figure src="/photos/ultima_a.jpg" >}}
+{{< figure src="/photos/ultima_l.jpg" >}}
+
+
 ---
 
 Read about the [versions A B C](https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersabc/)

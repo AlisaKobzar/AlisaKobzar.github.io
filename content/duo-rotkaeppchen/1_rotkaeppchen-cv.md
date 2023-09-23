@@ -9,14 +9,13 @@ date: 2023-02-02
 
 {{< youtube ckFmqbK8-JM >}}
 
+Presentation of the artistic research [Interaction models underpinning the rotkäppchen process](https://www.uio.no/ritmo/english/news-and-events/events/food-and-paper/2023/alisa-kobzar/index.html)  @ [RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion - University of Oslo](https://www.uio.no/ritmo/english/)
 
 
-**Next performances**
-
-- 9/2023 Ultima Festival (Oslo)
 
 **Latest performances**
 
+- 9/2023 Ultima Festival (Oslo)
 - 2/2023 Provinzlärm festival in Eckernförde (Germany)
 - 2/2023 tanz:digital (Berlin)
 - 1/2023 6.Internationale Symposium Kulturvermittlung
