@@ -41,8 +41,6 @@ August 2023 : Leap_OSC bridge for Leap Motion 2 controller and Gemini SDK togeth
 
 New composition for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/) and Automatenklavier by W.Ritsch
 
-New composition for EM-Visia festival
-
 New composition for [LAKT Ensemble](https://www.laktensemble.com/)
 
 New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/stimmen/helena-sorokina/)
