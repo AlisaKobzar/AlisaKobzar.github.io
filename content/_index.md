@@ -20,10 +20,6 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-1 October 2023 : [PRISM #11 „SKEW LINES“](https://www.facebook.com/events/258345063833023) concert in Reaktor (Vienna) `role: sound director`
-
-October 2023 : premiere of the new composition @ EM-Visia festival
-
 09 - 15 October 2023 : residency in the Electronic music Studio @ [Akademie der Künste Berlin](https://www.adk.de/)
 
 January 2024 : Concert @ Kultum (Graz) `role: sound director, composer`
@@ -39,6 +35,8 @@ August 2023 : Leap_OSC bridge for Leap Motion 2 controller and Gemini SDK togeth
 
 2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
 
+New composition for piano/e-piano and electronics
+
 New composition for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/) and Automatenklavier by W.Ritsch
 
 New composition for [LAKT Ensemble](https://www.laktensemble.com/)
@@ -48,6 +46,8 @@ New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/s
 <hr />
 
 **Last:**
+
+1 October 2023 : [PRISM #11 „SKEW LINES“](https://www.facebook.com/events/258345063833023) concert in Reaktor (Vienna) `role: sound director`
 
 "Floating pointers (D)" for [duo rotkäppchen](https://alisakobzar.github.io/duo-rotkaeppchen/)
 
