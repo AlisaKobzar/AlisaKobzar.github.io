@@ -51,7 +51,7 @@ You can find some of my artistic projects (commissioned, partially commissioned,
 
 **Teaching**
 
-- 2017-today : private lessons on electro-acoustic, acoustic, electronic composition, multimedia art, interaction design, game development, programming.
+- 2017-today : private lessons on electro-acoustic, acoustic, electronic composition, multimedia art, interaction design, game development, programming, piano, music theory.
 
 - 2017: YAMAHA-sponsored author's course "Electronic music.Introduction" (Kyiv)
 
