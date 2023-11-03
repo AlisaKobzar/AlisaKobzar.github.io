@@ -28,6 +28,9 @@ February 2024 :  video documentation of the [artistic research](https://intertwi
 
 end 2024 : opera "Bin Yaksan" by Sinan Samanli `role: video artist`
 
+2025 : “bunter Erbsentraum in der Klangschote” by duo rotkaeppchen `role: composer, HCI designer, programmer`
+
+
 <hr />
 
 **Ongoing:**
@@ -45,6 +48,8 @@ New composition for [LaKT Ensemble](https://www.laktensemble.com/) `role: compos
 New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/stimmen/helena-sorokina/) `role: composer, programmer`
 
 Opera "Bin Yaksan" by Sinan Samanli `role: video artist`
+
+“bunter Erbsentraum in der Klangschote” - a child-oriented dance performance in an interactive sound installation, which is based on a motion capture system and uses electronic multi-channel music by duo rotkaeppchen `role: composer, HCI designer, programmer`
 
 <hr />
 
