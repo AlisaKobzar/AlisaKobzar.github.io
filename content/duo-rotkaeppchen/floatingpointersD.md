@@ -31,6 +31,8 @@ The premiere performance is kindly supported by [Ulysses Journeys for performers
 {{< figure src="/photos/ultima_l.jpg" >}}
 
 
+[blogpost @ RITMO](https://www.uio.no/ritmo/english/news-and-events/blog/2023/alisa-kobzar/index.html)
+
 ---
 
 Read about the [versions A B C](https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersabc/)

@@ -88,7 +88,7 @@ date: 2023-02-02
 
 
 
-Sound Installations
+## **Sound Installations**
 
 - **Untitled** interactive sound installation [5:00]
 - **Autonomous systems** generative sound installation based on natural language processing for motor, double bass and transducer [25:00]
