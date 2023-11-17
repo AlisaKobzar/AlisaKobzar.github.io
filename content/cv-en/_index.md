@@ -10,6 +10,8 @@ In 2016 she was the resident of SME (Studio of Electronic Music) Musical Academy
 
 Since 2019 together with Lisa Mc Guire (dance, choreography), Alisa (electronic music composition, multimedia art composition, HCI programming) founded the duo rotkäppchen, which regularly performs their interactive multimedia compositions in Austria and abroad.
 
+The Federal Ministry for Arts, Culture, the Civil Service and Sport Section IV - Arts and Culture has awarded Alisa Kobzar a State Scholarship for Composition 2024 .
+
 Alisa is currently a member of IGNM (AT), ÖGZM (AT), mur.at (AT), Seven circles (AT), Voice of Culture NGO (UA), Creative Sensor NGO (UA), Association of Electronic Music (UA) and other associations/organisations.
 
 
