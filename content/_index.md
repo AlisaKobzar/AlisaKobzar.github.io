@@ -20,11 +20,9 @@ I want the audience to make their discoveries through the experiencing process o
 
 **Upcoming:**
 
-November 2024 : online presentation "Creative implications of the interactive technologies in my praxis" @ TU Berlin `role: presenter, composer, multimedia artist, programmer, HCI designer`
+January 2024 : Concert @ Kultum (Graz) `role: composer, computer music performer`
 
-January 2024 : Concert @ Kultum (Graz) `role: sound director, composer`
-
-February 2024 :  video documentation of the [artistic research](https://intertwiningarts.org/) by [Elina Akselrud](https://elinaakselrud.com/) `role: video documentation`
+February 2024 :  video documentation of the [artistic research](https://intertwiningarts.org/) by [Elina Akselrud](https://elinaakselrud.com/) `role: video documentation artist`
 
 end 2024 : opera "Bin Yaksan" by Sinan Samanli `role: video artist`
 
@@ -39,11 +37,11 @@ August 2023 -.. : Leap_OSC bridge for Leap Motion 2 controller and Gemini SDK to
 
 2020-2023 : [ROOMS](https://roomsua.com/) project with a video lecture series "Binaural production for sound artists" `role: project curator`
 
-New composition for piano/e-piano and electronics `role: composer, programmer`
+Cycle of compositions for piano/e-piano and portable electronics `role: composer, programmer`
 
-New composition for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/) and Automatenklavier by W.Ritsch `role: composer, programmer`
+"Projections" for [ensemble Zeitfluss](http://www.ensemble-zeitfluss.com/) and Automatenklavier by W.Ritsch `role: composer`
 
-New composition for [LaKT Ensemble](https://www.laktensemble.com/) `role: composer, programmer`
+"Echos & N" (For cello, double-bass (as an interactive object), dancer , custom electronic circuitry and electronics) for [LaKT Ensemble](https://www.laktensemble.com/) `role: composer, programmer`
 
 New composition for [Helena Sorokina](https://www.cantando-admont.com/ensemble/stimmen/helena-sorokina/) `role: composer, programmer`
 
@@ -54,6 +52,9 @@ Opera "Bin Yaksan" by Sinan Samanli `role: video artist`
 <hr />
 
 **Last:**
+
+22 November 2024 : online presentation "Creative implications of the interactive technologies in my praxis" @ TU Berlin `role: presenter, composer, multimedia artist, programmer, HCI designer`
+
 
 09 - 15 October 2023 : residency in the Electronic music Studio @ [Akademie der Künste Berlin](https://www.adk.de/)
 
