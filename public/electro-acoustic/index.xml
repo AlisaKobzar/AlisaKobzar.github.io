@@ -2,146 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electro-acoustic on Alisa Kobzar</title>
-    <link>https://example.org/electro-acoustic/</link>
+    <link>https://alisakobzar.github.io/electro-acoustic/</link>
     <description>Recent content in Electro-acoustic on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/electro-acoustic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/electro-acoustic/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>earthDiary</title>
-      <link>https://example.org/electro-acoustic/earthdiary/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Ocean</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/ocean/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/earthdiary/</guid>
-      <description></description>
+      <guid>https://alisakobzar.github.io/electro-acoustic/ocean/</guid>
+      <description>Collaboration with Oksana Chepelyk (visual artist). role: composer
+This project&amp;rsquo;s version is currently being revised.
+&amp;ldquo;The Ocean&amp;rdquo; is part of &amp;ldquo;The Independence Without Borders&amp;rdquo; project as a series of streams at the intersection of sound and media art, vocal and performative practices dedicated to the art study of independence in the broadest sense. The project was created in cooperation with Carbon (Ukraine) and InterAKT Initiative e.V. (Germany) with the support of the Ukrainian Cultural Foundation.</description>
     </item>
     
     <item>
-      <title>prism</title>
-      <link>https://example.org/electro-acoustic/prism/</link>
+      <title>fear no more</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/fearnomore/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/fearnomore/</guid>
+      <description>Multimedia for soprano, mezzo soprano, flute, piano, fixed and live electronics, game-directed video-art.
+Composed for the project &amp;ldquo;Jede dritte&amp;rdquo; by Maria Kalesnikawa, devoted to the statistics, that every third woman is a victim of a home violence.
+Excerpt from the performance in Stuttgart (Musik der Jahrhunderte): </description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/energy/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/prism/</guid>
-      <description>„PRISM“ (ver.1, 2017)
-for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord, 2 motion controllers (Leap Motion, Myo armband), live electronics „PRISM“ (ver.2, 2019)
+      <guid>https://alisakobzar.github.io/electro-acoustic/energy/</guid>
+      <description>For tenor Saxophone, EMG-sensors gesture controller(Roman Fotuima) and live electronics.
+This project continues to explore the natural performer&amp;rsquo;s movements as an intuitive control mechanism for live-electronics.</description>
+    </item>
+    
+    <item>
+      <title>PRISM</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/prism/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/prism/</guid>
+      <description>This project explores the natural performative movements, produced by acoustic music instruments&amp;rsquo; performers, augmented by the gestural controllers.
+„PRISM“ (ver.1, 2017)
+for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord, 2 motion controllers (Leap Motion, Myo armband), live electronics
+„PRISM“ (ver.2, 2019)
 for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord, 1 motion controller (Myo), live electronics</description>
     </item>
     
     <item>
-      <title>0111</title>
-      <link>https://example.org/electro-acoustic/0111/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <title>interference-2</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/interference2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/0111/</guid>
-      <description> </description>
+      <guid>https://alisakobzar.github.io/electro-acoustic/interference2/</guid>
+      <description>changes of the character, damaging, consequences of influences, mutual suppression, competition, oppression&amp;hellip; Memories, which are being erased. Information overload. - interference.
+Fixed media.</description>
     </item>
     
     <item>
       <title>Afflatus</title>
-      <link>https://example.org/electro-acoustic/afflatus/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <link>https://alisakobzar.github.io/electro-acoustic/afflatus/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/afflatus/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electro-acoustic/afflatus/</guid>
+      <description>For oboe, clarinet , piano, french horn, electronics and lights.
+Ensemble Nostri Termporis, festival in Krakow</description>
     </item>
     
     <item>
-      <title>artificial soundscapes</title>
-      <link>https://example.org/electro-acoustic/artificialsoundscapes/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>0111</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/0111/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/artificialsoundscapes/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>bartok-berio-0</title>
-      <link>https://example.org/electro-acoustic/bartok-berio-0/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/bartok-berio-0/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Bartok-Berio: communication is possible</title>
-      <link>https://example.org/electro-acoustic/bartok-berio-full/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/bartok-berio-full/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>divinacommedia</title>
-      <link>https://example.org/electro-acoustic/divinacommedia/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/divinacommedia/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>energy</title>
-      <link>https://example.org/electro-acoustic/energy/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/energy/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>fearNoMore</title>
-      <link>https://example.org/electro-acoustic/fearnomore/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/fearnomore/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>gaudeproject</title>
-      <link>https://example.org/electro-acoustic/gaudeproject/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/gaudeproject/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>interference-2</title>
-      <link>https://example.org/electro-acoustic/interference2/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/interference2/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electro-acoustic/0111/</guid>
+      <description>for E-Violin(6-Strings), Cello, Flute, Clarinet, Percussion, 2 MIDI Keyboards with MIDI pedals and electronics.
+performed by the NAMES ensemble (Anna Lindenbaum (E-Violin), Leo Morello (Cello), Marina Iglesias Gonzalo (Flute), Marco Sala (Clarinet), Špela Mastnak (Percussion), Matthias Leboucher (Keyboard), Alexander Bauer (Keyboard)).
+Binaural recording: </description>
     </item>
     
     <item>
       <title>Ophelia</title>
-      <link>https://example.org/electro-acoustic/ophelia/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <link>https://alisakobzar.github.io/electro-acoustic/ophelia/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/ophelia/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electro-acoustic/ophelia/</guid>
+      <description>For amplified voice, glass balls, oboe, el. MIDI-guitar</description>
     </item>
     
     <item>
       <title>poetry</title>
-      <link>https://example.org/electro-acoustic/poetry/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <link>https://alisakobzar.github.io/electro-acoustic/poetry/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electro-acoustic/poetry/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>W&#39;air</title>
-      <link>https://example.org/electro-acoustic/w_air/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electro-acoustic/w_air/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electro-acoustic/poetry/</guid>
+      <description>for voice and interactive live electronics voice and poetry: Olena Stepanenko</description>
     </item>
     
   </channel>

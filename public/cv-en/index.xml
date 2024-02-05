@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CV (EN) on Alisa Kobzar</title>
-    <link>https://example.org/cv-en/</link>
-    <description>Recent content in CV (EN) on Alisa Kobzar</description>
+    <title>CV on Alisa Kobzar</title>
+    <link>https://alisakobzar.github.io/cv-en/</link>
+    <description>Recent content in CV on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/cv-en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/cv-en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1.One</title>
-      <link>https://example.org/cv-en/one/</link>
+      <title>List of compositions since 2012</title>
+      <link>https://alisakobzar.github.io/cv-en/compositions/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/cv-en/one/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
-    </item>
-    
-    <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://example.org/cv-en/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/cv-en/design1/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+      <guid>https://alisakobzar.github.io/cv-en/compositions/</guid>
+      <description>Compositions (since 2012, not complete) Quadro for flute, piano, violin, cello [10:01] Ab.out for string orchestra [4:30] 3 lieder for soprano and small instrumental ensembles on the texts by Brodsky [total duration 12:30] Salve Regina for children’s choir [6:00] De(zember) for pianist and assistant [9:01] Gardens of the birds&amp;rsquo; unfinished songs for MACME instrumental ensemble [10:33] In the sky for harp and orchestra [7:10] Interference for flute, oboe, clarinet, violin, cello [9:36] jamais-vu for flute, oboe, violin, cello, piano [6:59] migraine for 3 performers and objects [5:18] Notions for various solo instruments (total duration ~35 min) Sonata for 1 percussionist [15:10] Concert for piano and orchestra [11:15] In time variations for piano [9:05] Rondo for 2 pianos [12:14] S for 3 female voices [6:06] Sonata for solo violin [7:10] Sundrops for marimba and several performers [5:04] Veni Creator Spiritus for mixed choir [4:10] Pater Noster for mixed choir [5:35] XY for toy instruments and score-writer/engraver [7:00] As soon as (Paradise) for horn and bass trombone [8:48] Four dreams of the sunshine for clarinet [8:00] Slightly Dividing (inside) for block flute, double bass, female voice, rattles, toy-tambourine [6:15] Deep That Through for oboe, horn, cello, video [7:42] Distances for flute, trumpet, acoustic guitar, piano, temple blocks, cow-bells, cello and video [11:15] Ophelia for english horn, 10-str.</description>
     </item>
     
   </channel>

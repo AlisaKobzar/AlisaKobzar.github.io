@@ -2,45 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installations on Alisa Kobzar</title>
-    <link>https://example.org/installations/</link>
+    <link>https://alisakobzar.github.io/installations/</link>
     <description>Recent content in Installations on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:33 +0100</lastBuildDate><atom:link href="https://example.org/installations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/installations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>autonomous systems</title>
-      <link>https://example.org/installations/autonomoussystems/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>private network</title>
+      <link>https://alisakobzar.github.io/installations/privatenetwork/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/installations/autonomoussystems/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>oceaniam</title>
-      <link>https://example.org/installations/oceaniam/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/installations/oceaniam/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>privateNetworks</title>
-      <link>https://example.org/installations/privatenetworks/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/installations/privatenetworks/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/installations/privatenetwork/</guid>
+      <description>if the ecosystem of trees’ communication could be magnified, what would it sound like? which would be these trees’ own interpretations and how would the processing of the incoming information sound like? The installation explores the trees-network concept, as well as anthropogenic influences on the ecosystemic cycle.
+Live-electronics sound installation for 20 audio channels.
+Installation exists in 2 versions: using small loudspeakers (v.0) and using plexiglass (v.1).
+V.0 at IEM (KUG) Campus 2021</description>
     </item>
     
     <item>
       <title>schallstrahl</title>
-      <link>https://example.org/installations/schallstrahl/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <link>https://alisakobzar.github.io/installations/schallstrahl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/installations/schallstrahl/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/installations/schallstrahl/</guid>
+      <description>Collaborative sound installation with Lino Leum @ the residency of artist Max Boehme in Waldhausen (Austria)</description>
+    </item>
+    
+    <item>
+      <title>The ocean I am</title>
+      <link>https://alisakobzar.github.io/installations/oceaniam/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/oceaniam/</guid>
+      <description>„The ocean I am“ is a subjectively described collective consciousness, formed by the texts by Maria Kalesnikawa (Belorussian activist) and Vasyl Stus (Ukrainian poet), written in the prisons. These voices (partly unheard, interpreted by Viktoria Vitrenko) are ones of thousands wrongly convicted and sentenced people of todays regimes and ongoing war.
+performed at the Elevate festival (Graz) ver.1 for IKO and Audio Art festival (Krakow) ver.2 for 8 channels audio</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Systems_as if they were flowers</title>
+      <link>https://alisakobzar.github.io/installations/autonomoussystems_asiftheywereflowers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/autonomoussystems_asiftheywereflowers/</guid>
+      <description>Collaborative cross-sectoral project autonomous systems, hosted at mur.at
+roles: sound and media art creator, interactive systems&#39; creator, web-dev
+Mozilla Hubs space</description>
+    </item>
+    
+    <item>
+      <title>yamaha_installation</title>
+      <link>https://alisakobzar.github.io/installations/yamaha_installation/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/yamaha_installation/</guid>
+      <description>Demo: </description>
     </item>
     
   </channel>

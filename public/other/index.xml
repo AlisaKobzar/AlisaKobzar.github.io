@@ -2,36 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other on Alisa Kobzar</title>
-    <link>https://example.org/other/</link>
+    <link>https://alisakobzar.github.io/other/</link>
     <description>Recent content in Other on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Veni Vidi VR</title>
-      <link>https://example.org/other/venividivr/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Tuer</title>
+      <link>https://alisakobzar.github.io/other/tuer_sounddesign/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/other/venividivr/</guid>
-      <description>4 channels music for gamified VR theatrical performance (for flute and electronics)</description>
+      <guid>https://alisakobzar.github.io/other/tuer_sounddesign/</guid>
+      <description>Sounddesign for the students&amp;rsquo; stop-motion animation.</description>
     </item>
     
     <item>
-      <title>musicfor2ads</title>
-      <link>https://example.org/other/musicfor2ads/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>trailers, teasers</title>
+      <link>https://alisakobzar.github.io/other/musicfortrailers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/other/musicfor2ads/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>musicfor2trailers</title>
-      <link>https://example.org/other/musicfor2trailers/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/other/musicfor2trailers/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/other/musicfortrailers/</guid>
+      <description>Video editing and music by Alisa Kobzar.
+_
+_
+_
+_
+another trailer with the music by Alisa Kobzar</description>
     </item>
     
   </channel>

@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Video on Alisa Kobzar</title>
-    <link>https://example.org/video/</link>
-    <description>Recent content in Video on Alisa Kobzar</description>
+    <title>Video design, filming on Alisa Kobzar</title>
+    <link>https://alisakobzar.github.io/video/</link>
+    <description>Recent content in Video design, filming on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>One</title>
-      <link>https://example.org/video/one/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Swap Space</title>
+      <link>https://alisakobzar.github.io/video/swapspace/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/video/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://example.org/video/swapspace/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/video/swapspace/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+      <guid>https://alisakobzar.github.io/video/swapspace/</guid>
+      <description>Research assistant of the artistic research project SwapSpace.
+Swap Space is a pilot project (spring 2022) at the University of Music and Performing Arts Graz that focused on novel forms of collaborative artistic research in which otherness, difference and distance between the participants are central and are brought into a cohesive form via the concept of the spatial.
+role: video documentation
+Research catalogue contribution
+Article in the project catalogue</description>
     </item>
     
   </channel>

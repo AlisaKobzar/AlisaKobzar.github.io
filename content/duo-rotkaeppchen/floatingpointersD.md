@@ -19,6 +19,8 @@ Premiere: [Ultima contemporary music festival 2023](https://www.ultima.no/en/ult
 
 Links:
 
+{{< youtube RLoo3QFDQWA>}}
+
 The premiere performance is kindly supported by [Ulysses Journeys for performers](https://project.ulysses-network.eu/event/ulysses-journeys-for-performers-ultima-3/)
 
 [performance @ RITMO](https://www.uio.no/ritmo/english/news-and-events/events/artistic-performances/2023/floating-pointers/index.html)

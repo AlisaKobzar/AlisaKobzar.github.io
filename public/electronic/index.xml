@@ -2,126 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronic on Alisa Kobzar</title>
-    <link>https://example.org/electronic/</link>
+    <link>https://alisakobzar.github.io/electronic/</link>
     <description>Recent content in Electronic on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:43 +0100</lastBuildDate><atom:link href="https://example.org/electronic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/electronic/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4chpieceWalking</title>
-      <link>https://example.org/electronic/4chpiecewalking/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <title>if the leaves were dreaming</title>
+      <link>https://alisakobzar.github.io/electronic/ifthetreesweredreaming/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/4chpiecewalking/</guid>
-      <description>text text text text text text text text text text text text text text text</description>
+      <guid>https://alisakobzar.github.io/electronic/ifthetreesweredreaming/</guid>
+      <description>Installation-like multichannel composition is inspired by &amp;ldquo;The Last Dream of the Old Oak&amp;rdquo; by Hans Christian Andersen.</description>
     </item>
     
     <item>
-      <title>doyouhearme</title>
-      <link>https://example.org/electronic/doyouhearme/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>Surface Studies</title>
+      <link>https://alisakobzar.github.io/electronic/surfacestudy1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/doyouhearme/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>ifthetreesweredreaming</title>
-      <link>https://example.org/electronic/ifthetreesweredreaming/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electronic/ifthetreesweredreaming/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Ocean</title>
-      <link>https://example.org/electronic/ocean/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electronic/ocean/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/surfacestudy1/</guid>
+      <description>„Surface studies“ is a series of compositions for 1-4 computer-music performers. It explores the physical touch of the electrically conductive parts of the hybridised score-instrument. The main sonic idea is based on a simple statement, that with the bare hands, one could share the body’s electrical properties to the auditory domain. The visual design of the score-instrument combines the affordances of the conductive paint with the drawn sound approach. The score-instrument is created as a visual art form in the relation to the graphic score concept.</description>
     </item>
     
     <item>
       <title>rechtscreibung</title>
-      <link>https://example.org/electronic/rechtschreibung/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <link>https://alisakobzar.github.io/electronic/rechtschreibung/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/rechtschreibung/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/rechtschreibung/</guid>
+      <description>for Acousmonium
+rechtschreibung - orthography. In the contemporary world the problem of disinformation and totality of people masses’ control are told to be received as a new normality. the acousmatic piece works with extended reality.
+Version with video and audio in 360</description>
     </item>
     
     <item>
-      <title>someofthosestories</title>
-      <link>https://example.org/electronic/someofthosestories/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>(your title)</title>
+      <link>https://alisakobzar.github.io/electronic/yourtitle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/someofthosestories/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/yourtitle/</guid>
+      <description>for interactive audio-visual system.
+Based on a simple idea of using the means of musique concrete for creating the harmonic complexes, this pieces unfolds within the process of performer playing the visual layer of audio-visual instrument, and this resulting visual layer subsequently acts as a control interface for the sound complexes to emerge.</description>
     </item>
     
     <item>
-      <title>surfacestudy1</title>
-      <link>https://example.org/electronic/surfacestudy1/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>grow (demo)</title>
+      <link>https://alisakobzar.github.io/electronic/grow_demo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/surfacestudy1/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/grow_demo/</guid>
+      <description>Tryout of the reactive visuals and live electronics.</description>
     </item>
     
     <item>
-      <title>transmission</title>
-      <link>https://example.org/electronic/transmission/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>hommage PH</title>
+      <link>https://alisakobzar.github.io/electronic/hommageph/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/transmission/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/hommageph/</guid>
+      <description>for interactive audio-visual system.
+Musique concrete, devoted to Pierre Henry.
+Bandcamp</description>
     </item>
     
     <item>
-      <title>unnamable</title>
-      <link>https://example.org/electronic/unnamable/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>whether or not</title>
+      <link>https://alisakobzar.github.io/electronic/whetherornot/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/unnamable/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/whetherornot/</guid>
+      <description>fixed electronics
+music festival in Portugal</description>
     </item>
     
     <item>
-      <title>Variaciivyobrazni</title>
-      <link>https://example.org/electronic/variaciivyobrazni/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>some of those stories</title>
+      <link>https://alisakobzar.github.io/electronic/someofthosestories/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/variaciivyobrazni/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/someofthosestories/</guid>
+      <description>Fixed media, mono</description>
     </item>
     
     <item>
-      <title>voxelStudy</title>
-      <link>https://example.org/electronic/voxelstudy/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <title>the unnamable</title>
+      <link>https://alisakobzar.github.io/electronic/unnamable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/electronic/voxelstudy/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>whetherornot</title>
-      <link>https://example.org/electronic/whetherornot/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electronic/whetherornot/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>yourtitle</title>
-      <link>https://example.org/electronic/yourtitle/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://example.org/electronic/yourtitle/</guid>
-      <description>for 3 female voices</description>
+      <guid>https://alisakobzar.github.io/electronic/unnamable/</guid>
+      <description>fixed media</description>
     </item>
     
   </channel>

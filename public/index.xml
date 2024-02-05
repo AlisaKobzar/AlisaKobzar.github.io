@@ -2,81 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agenda on Alisa Kobzar</title>
-    <link>https://alisakobzar.github.io</link>
+    <link>https://alisakobzar.github.io/</link>
     <description>Recent content in Agenda on Alisa Kobzar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alisakobzar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. rotkaeppchen CV (EN)</title>
+      <title>_rotkaeppchen CV (EN)</title>
       <link>https://alisakobzar.github.io/duo-rotkaeppchen/1_rotkaeppchen-cv/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/1_rotkaeppchen-cv/</guid>
-      <description></description>
+      <description>rotkäppchen duo is an Austria-based collaboration between the composer and multimedia artist Alisa Kobzar and the dancer and choreographer Lisa Mc Guire. Since 2019 they are creating art projects together and performing in Vienna, Graz, Salzburg, Oslo as well as via live stream to Hong Kong. rotkäppchen has been part of concerts (Institute of Electronic Music and Acoustics concerts, Kunsthaus Graz), multimedia exhibitions (Pointlessness), conferences (Audio Mostly, DACA) and also produced their own performances (TIK, Sargfabrik, etc.</description>
     </item>
     
     <item>
-      <title>1.One</title>
-      <link>https://alisakobzar.github.io/collaborations/one/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/one/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
-    </item>
-    
-    <item>
-      <title>1.One</title>
-      <link>https://alisakobzar.github.io/cv-en/one/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/cv-en/one/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
-    </item>
-    
-    <item>
-      <title>1.One</title>
-      <link>https://alisakobzar.github.io/sounddir/one/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/sounddir/one/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
-    </item>
-    
-    <item>
-      <title>1.One</title>
-      <link>https://alisakobzar.github.io/writings/one/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/writings/one/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
-    </item>
-    
-    <item>
-      <title>2. rotkaeppchen-photos</title>
+      <title>_rotkaeppchen-photos</title>
       <link>https://alisakobzar.github.io/duo-rotkaeppchen/2_rotkaeppchen-photos/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/2_rotkaeppchen-photos/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
-      <title>2. sound object</title>
-      <link>https://alisakobzar.github.io/writings/sound-object/</link>
+      <title>Avalon</title>
+      <link>https://alisakobzar.github.io/duo-nastia/avalon/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/writings/sound-object/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2grow</title>
-      <link>https://alisakobzar.github.io/duo-rotkaeppchen/2grow/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/2grow/</guid>
-      <description></description>
+      <guid>https://alisakobzar.github.io/duo-nastia/avalon/</guid>
+      <description>Collaborative work with Anastasiia Vorobiova, Pawel Mazur.
+role: game developer, composer, sound designer
+More about the project</description>
     </item>
     
     <item>
@@ -85,16 +42,8 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/gamedev/avatara/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
-    </item>
-    
-    <item>
-      <title>beforethefirstflight</title>
-      <link>https://alisakobzar.github.io/duo-rotkaeppchen/beforethefirstflight/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/beforethefirstflight/</guid>
-      <description></description>
+      <description>short opera by Christof Ressi for 2 singers, 2 VR performers, ensemble, live video and live electronics
+role: VR game developer, HCI-designer, motion tracking technician</description>
     </item>
     
     <item>
@@ -103,43 +52,46 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/crossproduct/</guid>
-      <description></description>
+      <description>Dance on screen project.
+​&amp;quot;Cross product&amp;quot; is a short film, that combines visual art, music and dance into one inseparable media. The main idea of the movie is based on the algebraic definition, that says: “The Cross Product a × b of two vectors is another vector that is at right angles to both.&amp;quot;
+Read more
+Sound, visuals - Alisa Kobzar
+Choreography, dance - Lisa Mc Guire</description>
     </item>
     
     <item>
-      <title>earthDiary</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/earthdiary/</link>
+      <title>Excerpt from the Earth diary</title>
+      <link>https://alisakobzar.github.io/gamedev/earthdiary/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/electro-acoustic/earthdiary/</guid>
-      <description></description>
+      <guid>https://alisakobzar.github.io/gamedev/earthdiary/</guid>
+      <description>For clarinet and electronics.
+First prototype of interactive 3D sonic object, inspired by the model-based sonification and powered with the generative grammars algorithmic composition method and by the logic of game-design.
+Performer: Dmytro Pashynskyi (Clarinet)
+Created within the project Pandemic media space
+a short interview
+excerpts from the Prototype and Encapsulated Chapters:
+Mozilla Hubs Encapsulated chapters</description>
     </item>
     
     <item>
-      <title>floating pointers A B C</title>
+      <title>Floating pointers (ver. A, B, C)</title>
       <link>https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersabc/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersabc/</guid>
-      <description></description>
+      <description>The „Floating pointers“ project exists in 4 versions, 3 of which have been already presented in different venues in Salzburg (A), Graz (B), and Eckernförde (C) (Provinzlärm Festival).
+Version A explores the human-computer interaction methods with the dancer’s complete control of the sound medium, version B is focused on the human-to-human interaction as an alternative interpretation of the same computer music instruments. Version C combines both approaches and invites the audience to compare the beautiful and completely different results.</description>
     </item>
     
     <item>
-      <title>floating pointers D</title>
+      <title>Floating pointers (ver.D)</title>
       <link>https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersd/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/floatingpointersd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grasshoppers</title>
-      <link>https://alisakobzar.github.io/duo-rotkaeppchen/grasshoppers/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/grasshoppers/</guid>
-      <description></description>
+      <description>The „Floating pointers“ project exists in 4 versions, 3 of which have been already presented in different venues in Salzburg (A), Graz (B), and Eckernförde (C) (Provinzlärm Festival).
+Version A explores the human-computer interaction methods with the dancer’s complete control of the sound medium, version B is focused on the human-to-human interaction as an alternative interpretation of the same computer music instruments. Version C combines both approaches and invites the audience to compare the beautiful and completely different results.</description>
     </item>
     
     <item>
@@ -148,7 +100,7 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/photos/group/</guid>
-      <description> Florence 2019 </description>
+      <description> Florence 2019 Audio Mostly 2020 Eckernfoerde 2023 Eckernfoerde 2023 Eckernfoerde 2023 Eckernfoerde 2023 Eckernfoerde 2023 Eckernfoerde 2023 </description>
     </item>
     
     <item>
@@ -157,34 +109,27 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/grow/</guid>
-      <description></description>
+      <description>“Grow” combines dance in the limited space of the beamer’s projection with the visual art, operated in real time, and live electronic music, synthesised and played live.
+The piece explores the transformative relationships between the body and technology. The reaction-interactions chains between the dancer and composer/multimedia artist are the result of nonverbal communication. Visually the role of the dancer is to propose the movement sequences, which receive immediate reactions in music and/or visual content because of the active visual following, or vice versa - the dancer reacts on the sound sequence, proposed by the composer in real time.</description>
     </item>
     
     <item>
-      <title>humboldt</title>
-      <link>https://alisakobzar.github.io/duo-rotkaeppchen/humboldt/</link>
+      <title>List of compositions since 2012</title>
+      <link>https://alisakobzar.github.io/cv-en/compositions/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/humboldt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lebensformen1a1b1c</title>
-      <link>https://alisakobzar.github.io/duo-rotkaeppchen/lebensformen1a1b1c/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/lebensformen1a1b1c/</guid>
-      <description></description>
+      <guid>https://alisakobzar.github.io/cv-en/compositions/</guid>
+      <description>Compositions (since 2012, not complete) Quadro for flute, piano, violin, cello [10:01] Ab.out for string orchestra [4:30] 3 lieder for soprano and small instrumental ensembles on the texts by Brodsky [total duration 12:30] Salve Regina for children’s choir [6:00] De(zember) for pianist and assistant [9:01] Gardens of the birds&amp;rsquo; unfinished songs for MACME instrumental ensemble [10:33] In the sky for harp and orchestra [7:10] Interference for flute, oboe, clarinet, violin, cello [9:36] jamais-vu for flute, oboe, violin, cello, piano [6:59] migraine for 3 performers and objects [5:18] Notions for various solo instruments (total duration ~35 min) Sonata for 1 percussionist [15:10] Concert for piano and orchestra [11:15] In time variations for piano [9:05] Rondo for 2 pianos [12:14] S for 3 female voices [6:06] Sonata for solo violin [7:10] Sundrops for marimba and several performers [5:04] Veni Creator Spiritus for mixed choir [4:10] Pater Noster for mixed choir [5:35] XY for toy instruments and score-writer/engraver [7:00] As soon as (Paradise) for horn and bass trombone [8:48] Four dreams of the sunshine for clarinet [8:00] Slightly Dividing (inside) for block flute, double bass, female voice, rattles, toy-tambourine [6:15] Deep That Through for oboe, horn, cello, video [7:42] Distances for flute, trumpet, acoustic guitar, piano, temple blocks, cow-bells, cello and video [11:15] Ophelia for english horn, 10-str.</description>
     </item>
     
     <item>
       <title>One</title>
-      <link>https://alisakobzar.github.io/video/one/</link>
+      <link>https://alisakobzar.github.io/collaborations/one/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/video/one/</guid>
-      <description></description>
+      <guid>https://alisakobzar.github.io/collaborations/one/</guid>
+      <description>Version 1: Video, gamedev and design: Alisa Kobzar, Music: Davide Coppola
+Version 2 (in progress): Video, gamedev, design, music : Alisa Kobzar</description>
     </item>
     
     <item>
@@ -193,7 +138,7 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/photos/other/</guid>
-      <description>“Earth Diary” material in the clarinet part consists of six core feelings that do not leave me since the beginning of the “Covid” era: breaking, slide and carefully, waves, swinging on the rope, running breathing, hidden. These concepts became the starting point of the composition, forming into small motifs that became the “content” of the musical diary. I deliberately did not use numerical data in the process of composing instrumental “theses”, concentrating purely on emotions and guided by the composer’s intuition.</description>
+      <description> </description>
     </item>
     
     <item>
@@ -202,82 +147,72 @@
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/duo-rotkaeppchen/theroomofthelostmemories/</guid>
-      <description></description>
+      <description>Live performance with the active motion-tracking system, where the dancer interacts with the invisible objects and fully controls the sound.
+Flashback into the space, where everything is questionably existing in the personal emotional relations with the memory-carrier. The memories come and go not always as expected, forcing the carrier to live them shortly again. There is no evidence how the memories are connected. The reality after flashback is not perceived in the same way.</description>
     </item>
     
     <item>
-      <title>u92</title>
-      <link>https://alisakobzar.github.io/duo-rotkaeppchen/u92/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Tuer</title>
+      <link>https://alisakobzar.github.io/other/tuer_sounddesign/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/u92/</guid>
-      <description></description>
+      <guid>https://alisakobzar.github.io/other/tuer_sounddesign/</guid>
+      <description>Sounddesign for the students&amp;rsquo; stop-motion animation.</description>
     </item>
     
     <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://alisakobzar.github.io/collaborations/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/design1/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://alisakobzar.github.io/cv-en/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/cv-en/design1/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://alisakobzar.github.io/gamedev/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/gamedev/design1/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://alisakobzar.github.io/sounddir/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alisakobzar.github.io/sounddir/design1/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
-    </item>
-    
-    <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
+      <title>Swap Space</title>
       <link>https://alisakobzar.github.io/video/swapspace/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/video/swapspace/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+      <description>Research assistant of the artistic research project SwapSpace.
+Swap Space is a pilot project (spring 2022) at the University of Music and Performing Arts Graz that focused on novel forms of collaborative artistic research in which otherness, difference and distance between the participants are central and are brought into a cohesive form via the concept of the spatial.
+role: video documentation
+Research catalogue contribution
+Article in the project catalogue</description>
     </item>
     
     <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>https://alisakobzar.github.io/writings/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <title>before the first flight</title>
+      <link>https://alisakobzar.github.io/duo-rotkaeppchen/beforethefirstflight/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/writings/design1/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/beforethefirstflight/</guid>
+      <description>Motion capture, character design, sound, video - Alisa Kobzar
+Dance - Lisa Mc Guire
+This project explores the beauty of the sensors&amp;rsquo; noise, introduced by the Optitrack system.</description>
+    </item>
+    
+    <item>
+      <title>private network</title>
+      <link>https://alisakobzar.github.io/installations/privatenetwork/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/privatenetwork/</guid>
+      <description>if the ecosystem of trees’ communication could be magnified, what would it sound like? which would be these trees’ own interpretations and how would the processing of the incoming information sound like? The installation explores the trees-network concept, as well as anthropogenic influences on the ecosystemic cycle.
+Live-electronics sound installation for 20 audio channels.
+Installation exists in 2 versions: using small loudspeakers (v.0) and using plexiglass (v.1).
+V.0 at IEM (KUG) Campus 2021</description>
+    </item>
+    
+    <item>
+      <title>schallstrahl</title>
+      <link>https://alisakobzar.github.io/installations/schallstrahl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/schallstrahl/</guid>
+      <description>Collaborative sound installation with Lino Leum @ the residency of artist Max Boehme in Waldhausen (Austria)</description>
+    </item>
+    
+    <item>
+      <title>The ocean I am</title>
+      <link>https://alisakobzar.github.io/installations/oceaniam/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/oceaniam/</guid>
+      <description>„The ocean I am“ is a subjectively described collective consciousness, formed by the texts by Maria Kalesnikawa (Belorussian activist) and Vasyl Stus (Ukrainian poet), written in the prisons. These voices (partly unheard, interpreted by Viktoria Vitrenko) are ones of thousands wrongly convicted and sentenced people of todays regimes and ongoing war.
+performed at the Elevate festival (Graz) ver.1 for IKO and Audio Art festival (Krakow) ver.2 for 8 channels audio</description>
     </item>
     
     <item>
@@ -286,29 +221,397 @@ Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum s
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/photos/portraits/</guid>
-      <description>Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.
-Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.
-Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.</description>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>a letter to humboldt</title>
+      <link>https://alisakobzar.github.io/duo-rotkaeppchen/humboldt/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/humboldt/</guid>
+      <description>Live electronic music, live visual art, dance in front of the video projection.
+Alexander von Humboldt (1769- 1859) is a german geographer, naturalist, explorer and the first person to describe the phenomenon and cause of human-induced climate change, in 1800 and again in 1831, based on observations generated during his travels. How could he react on the climate changes today? In the piece „a letter to Humboldt“ we want to pay people’s attention to the beauty and at the same time vulnerability of the nature.</description>
+    </item>
+    
+    <item>
+      <title>Autonomous Systems_as if they were flowers</title>
+      <link>https://alisakobzar.github.io/installations/autonomoussystems_asiftheywereflowers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/autonomoussystems_asiftheywereflowers/</guid>
+      <description>Collaborative cross-sectoral project autonomous systems, hosted at mur.at
+roles: sound and media art creator, interactive systems&#39; creator, web-dev
+Mozilla Hubs space</description>
+    </item>
+    
+    <item>
+      <title>autonomous systems_unSELFed</title>
+      <link>https://alisakobzar.github.io/collaborations/autonomoussystems_unselfed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/collaborations/autonomoussystems_unselfed/</guid>
+      <description>Collaborative cross-sectoral project autonomous systems, hosted at mur.at
+roles: sound and media art creator, interactive systems&#39; creator, web-dev</description>
+    </item>
+    
+    <item>
+      <title>if the leaves were dreaming</title>
+      <link>https://alisakobzar.github.io/electronic/ifthetreesweredreaming/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/ifthetreesweredreaming/</guid>
+      <description>Installation-like multichannel composition is inspired by &amp;ldquo;The Last Dream of the Old Oak&amp;rdquo; by Hans Christian Andersen.</description>
+    </item>
+    
+    <item>
+      <title>Ocean</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/ocean/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/ocean/</guid>
+      <description>Collaboration with Oksana Chepelyk (visual artist). role: composer
+This project&amp;rsquo;s version is currently being revised.
+&amp;ldquo;The Ocean&amp;rdquo; is part of &amp;ldquo;The Independence Without Borders&amp;rdquo; project as a series of streams at the intersection of sound and media art, vocal and performative practices dedicated to the art study of independence in the broadest sense. The project was created in cooperation with Carbon (Ukraine) and InterAKT Initiative e.V. (Germany) with the support of the Ukrainian Cultural Foundation.</description>
+    </item>
+    
+    <item>
+      <title>The Anthropocene Maze</title>
+      <link>https://alisakobzar.github.io/collaborations/theanthropocenemaze/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/collaborations/theanthropocenemaze/</guid>
+      <description>The Anthropocene Maze is the outcome of group project in the field of sonic interaction design at SIDlab.
+Autors: Alisa Kobzar, Benedikt Brands, Valerian Drack, Jakob Leitner, Katharina Groß-Vogt, Clemens Amon.
+role: composer, developer
+An interactive sound environment on the topic of the anthropocene is created using an interactive floor equipped with Pyzoflex® technology by Joanneum Research that registers any change in pressure on its surface, combined with an Ambisonics audio environment.</description>
+    </item>
+    
+    <item>
+      <title>grasshoppers</title>
+      <link>https://alisakobzar.github.io/duo-rotkaeppchen/grasshoppers/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/grasshoppers/</guid>
+      <description>Installation and dance performance with the IKO in Kunsthaus Graz (Open Mic series).
+Choreography and concept: Lisa Mc Guire Music: Alisa Kobzar Performers: Johanna Schmied-Schimeczek, Carmen Barbalata, Blessing Emweghere, Valentina Sander
+More about the project</description>
+    </item>
+    
+    <item>
+      <title>lebensformen 1a , 1b, 1c</title>
+      <link>https://alisakobzar.github.io/duo-rotkaeppchen/lebensformen1a1b1c/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/lebensformen1a1b1c/</guid>
+      <description>This project explores the feedback connection between the inner and outer.
+Initially planned as a project for 2 dancers and a e-violin performer (version 1), producing an effect on each other during the performance, because of the COVID-19 restrictions project has the live instrumental component. Currently project exists in 4 versions. Version 1 explores the 3 elementary living forms, coexisting and sharing the multimedia and physical spaces. Version 1 (inner) A is connecting the oscillations of one dancer between the inner and outer worlds as seen from the perspective of another dancer.</description>
+    </item>
+    
+    <item>
+      <title>Springing</title>
+      <link>https://alisakobzar.github.io/gamedev/springing/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/gamedev/springing/</guid>
+      <description>Game-assisted live-electronics composition
+„Springing“ is a piece for one computer music performer and a stereo output. The initial idea was springs with which you can interact without hearing the acoustic result of that interaction except a synthesised one. This spring should be treated metaphorically as a magnetic tape from the old analog tape machines with the writing and reading heads. This invisible spring should exist within the constraints of a virtual physics system (implemented within the Unity game engine ) and be accessible for interaction with the help of the Optitrack motion capture system (version 2) or NanoKontrol interface (version 1) .</description>
+    </item>
+    
+    <item>
+      <title>U92</title>
+      <link>https://alisakobzar.github.io/duo-rotkaeppchen/u92/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-rotkaeppchen/u92/</guid>
+      <description>Live electronic music , live visual art, dance in front of the video projection.
+In the project “U-92” we make an artistic exploration in the field of interactive space with transformational reactions on chemical processes of uranium. Our Society uses this diverse element with good intention (nuclear-medicine) or for demonstrating power (weapons). Another problematic subject is its inexhaustible resource of energy, which we are producing (nuclear reactor) in a careless way.</description>
+    </item>
+    
+    <item>
+      <title>Night Dreams of Water</title>
+      <link>https://alisakobzar.github.io/collaborations/water_nightdreams/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/collaborations/water_nightdreams/</guid>
+      <description>An experience inspired by water, nigh dreams and how we can experience these in a disembodied space, together. One main hubs room leads to three others, loosely inspired by the following words: &amp;ldquo;one can never step in the same river twice&amp;rsquo;&amp;rdquo; &amp;ldquo;what water will bring, will be taken away by water again,&amp;rdquo; &amp;ldquo;from water to air, holding and suspending, and then releasing and surfacing.
+Collaboratively developed as a part of LabO ChampdAction programme (Antwerp) Olivia McGilchrist @Lucy Fandel @Linus Miller @Vladyslav Boyko Anzor Ghudushauri Kasia Trzewik</description>
+    </item>
+    
+    <item>
+      <title>Surface Studies</title>
+      <link>https://alisakobzar.github.io/electronic/surfacestudy1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/surfacestudy1/</guid>
+      <description>„Surface studies“ is a series of compositions for 1-4 computer-music performers. It explores the physical touch of the electrically conductive parts of the hybridised score-instrument. The main sonic idea is based on a simple statement, that with the bare hands, one could share the body’s electrical properties to the auditory domain. The visual design of the score-instrument combines the affordances of the conductive paint with the drawn sound approach. The score-instrument is created as a visual art form in the relation to the graphic score concept.</description>
+    </item>
+    
+    <item>
+      <title>fear no more</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/fearnomore/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/fearnomore/</guid>
+      <description>Multimedia for soprano, mezzo soprano, flute, piano, fixed and live electronics, game-directed video-art.
+Composed for the project &amp;ldquo;Jede dritte&amp;rdquo; by Maria Kalesnikawa, devoted to the statistics, that every third woman is a victim of a home violence.
+Excerpt from the performance in Stuttgart (Musik der Jahrhunderte): </description>
+    </item>
+    
+    <item>
+      <title>Possession</title>
+      <link>https://alisakobzar.github.io/collaborations/possession/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/collaborations/possession/</guid>
+      <description>Sinan Samanli (music), Alisa Kobzar (video), Dajeong Yu (choreography)</description>
+    </item>
+    
+    <item>
+      <title>rechtscreibung</title>
+      <link>https://alisakobzar.github.io/electronic/rechtschreibung/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/rechtschreibung/</guid>
+      <description>for Acousmonium
+rechtschreibung - orthography. In the contemporary world the problem of disinformation and totality of people masses’ control are told to be received as a new normality. the acousmatic piece works with extended reality.
+Version with video and audio in 360</description>
+    </item>
+    
+    <item>
+      <title>Do_You_Hear_Me?</title>
+      <link>https://alisakobzar.github.io/gamedev/do_you_hear_me/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/gamedev/do_you_hear_me/</guid>
+      <description>Game prototype. Protagonist: Maria Kalesnikawa (contemporary flautist, imprisoned Belorussian activist), who goes in a night dream (nightmare - achieved with the help of various visual glitches, which confuse the player&amp;rsquo;s navigation) through the stages of her life (labyrinth ) in reverse from now until the point, when she decided, that the political future of her country is more important than her successful musical career. The goal of the game is to find the protagonist&amp;rsquo;s lost voice.</description>
     </item>
     
     <item>
       <title>Veni Vidi VR</title>
-      <link>https://alisakobzar.github.io/other/venividivr/</link>
+      <link>https://alisakobzar.github.io/duo-nastia/venividivr/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://alisakobzar.github.io/other/venividivr/</guid>
-      <description>4 channels music for gamified VR theatrical performance (for flute and electronics)</description>
+      <guid>https://alisakobzar.github.io/duo-nastia/venividivr/</guid>
+      <description>4 channels music for gamified VR theatrical performance (for flute and electronics)
+roles: composition, improvisation, sound design
+Premiered at Rzeszow Theatre</description>
     </item>
     
     <item>
-      <title>prism</title>
+      <title>yamaha_installation</title>
+      <link>https://alisakobzar.github.io/installations/yamaha_installation/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/installations/yamaha_installation/</guid>
+      <description>Demo: </description>
+    </item>
+    
+    <item>
+      <title>(your title)</title>
+      <link>https://alisakobzar.github.io/electronic/yourtitle/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/yourtitle/</guid>
+      <description>for interactive audio-visual system.
+Based on a simple idea of using the means of musique concrete for creating the harmonic complexes, this pieces unfolds within the process of performer playing the visual layer of audio-visual instrument, and this resulting visual layer subsequently acts as a control interface for the sound complexes to emerge.</description>
+    </item>
+    
+    <item>
+      <title>Communication is possible: Bartok-Berio</title>
+      <link>https://alisakobzar.github.io/duo-nastia/bartok-berio-full/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-nastia/bartok-berio-full/</guid>
+      <description>&amp;ldquo;Communication is possible: Bartok-Berio&amp;rdquo; is a combination of duets from two cycles of short pieces for two violins by composers Luciano Berio and Bela Bartok.
+Live electronics and sound processing change the ways music material by Berio and Bartok is unfolding. Transition pieces between Berio and Bartok duets, composed by Alisa Kobzar, create the intonational and figurative bridges between the musical languages of Bartok and Berio.
+Pilot project, demo Pilot project, part 1 Pilot project, part 2 </description>
+    </item>
+    
+    <item>
+      <title>grow (demo)</title>
+      <link>https://alisakobzar.github.io/electronic/grow_demo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/grow_demo/</guid>
+      <description>Tryout of the reactive visuals and live electronics.</description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/energy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/energy/</guid>
+      <description>For tenor Saxophone, EMG-sensors gesture controller(Roman Fotuima) and live electronics.
+This project continues to explore the natural performer&amp;rsquo;s movements as an intuitive control mechanism for live-electronics.</description>
+    </item>
+    
+    <item>
+      <title>hommage PH</title>
+      <link>https://alisakobzar.github.io/electronic/hommageph/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/hommageph/</guid>
+      <description>for interactive audio-visual system.
+Musique concrete, devoted to Pierre Henry.
+Bandcamp</description>
+    </item>
+    
+    <item>
+      <title>PRISM</title>
       <link>https://alisakobzar.github.io/electro-acoustic/prism/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/electro-acoustic/prism/</guid>
-      <description>„PRISM“ (ver.1, 2017)
-for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord, 2 motion controllers (Leap Motion, Myo armband), live electronics „PRISM“ (ver.2, 2019)
+      <description>This project explores the natural performative movements, produced by acoustic music instruments&amp;rsquo; performers, augmented by the gestural controllers.
+„PRISM“ (ver.1, 2017)
+for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord, 2 motion controllers (Leap Motion, Myo armband), live electronics
+„PRISM“ (ver.2, 2019)
 for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord, 1 motion controller (Myo), live electronics</description>
+    </item>
+    
+    <item>
+      <title>trailers, teasers</title>
+      <link>https://alisakobzar.github.io/other/musicfortrailers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/other/musicfortrailers/</guid>
+      <description>Video editing and music by Alisa Kobzar.
+_
+_
+_
+_
+another trailer with the music by Alisa Kobzar</description>
+    </item>
+    
+    <item>
+      <title>transmission</title>
+      <link>https://alisakobzar.github.io/duo-nastia/transmission/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-nastia/transmission/</guid>
+      <description>This project is focused on the feedback loops of simultaneous bi-directional control between the sound artist and visual artist, so that the sound is controlling image with its parameters, and the image is controlling sound subsequently or simultaneously.
+Excerpt: </description>
+    </item>
+    
+    <item>
+      <title>W&#39;air</title>
+      <link>https://alisakobzar.github.io/duo-nastia/w_air/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-nastia/w_air/</guid>
+      <description>for performer with interactive system.
+Visuals: Nastia Vorobiova.
+Krakow. AudioArt festival</description>
+    </item>
+    
+    <item>
+      <title>wariacje wyobraźni</title>
+      <link>https://alisakobzar.github.io/duo-nastia/wariacjewyobrazni/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-nastia/wariacjewyobrazni/</guid>
+      <description>Interactive audiovisual performance with mutual control between the sound and visuals.
+Festival Vox Electronica 2017 (Lviv)
+Excerpt:</description>
+    </item>
+    
+    <item>
+      <title>whether or not</title>
+      <link>https://alisakobzar.github.io/electronic/whetherornot/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/whetherornot/</guid>
+      <description>fixed electronics
+music festival in Portugal</description>
+    </item>
+    
+    <item>
+      <title>Artificial Soundscapes</title>
+      <link>https://alisakobzar.github.io/duo-nastia/artificialsoundscapes/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-nastia/artificialsoundscapes/</guid>
+      <description>For 2 violins, interactive score, 4-channels live electronics and video art.</description>
+    </item>
+    
+    <item>
+      <title>La Divina Commedia</title>
+      <link>https://alisakobzar.github.io/duo-nastia/divinacommedia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/duo-nastia/divinacommedia/</guid>
+      <description>Performatively curated installation for 15 bluetooth loudspeakers with the subsequent performance for singer, organ, 4-channels live electronics and video art, inspired by and based on the D.Alighieri&amp;rsquo;s masterpiece &amp;ldquo;La Divina Commedia&amp;rdquo;.
+The live electronics is controlled by the face expressions of a singer.
+excerpt from the performance in Krakow</description>
+    </item>
+    
+    <item>
+      <title>some of those stories</title>
+      <link>https://alisakobzar.github.io/electronic/someofthosestories/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/someofthosestories/</guid>
+      <description>Fixed media, mono</description>
+    </item>
+    
+    <item>
+      <title>Ab.out</title>
+      <link>https://alisakobzar.github.io/acoustic/ab_out/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/acoustic/ab_out/</guid>
+      <description>For string orchestra</description>
+    </item>
+    
+    <item>
+      <title>Gardens of the birds&#39; unfinished songs</title>
+      <link>https://alisakobzar.github.io/acoustic/gardensofthebirdsunfinishedsongs/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/acoustic/gardensofthebirdsunfinishedsongs/</guid>
+      <description>For flute, violin, piano</description>
+    </item>
+    
+    <item>
+      <title>interference-2</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/interference2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/interference2/</guid>
+      <description>changes of the character, damaging, consequences of influences, mutual suppression, competition, oppression&amp;hellip; Memories, which are being erased. Information overload. - interference.
+Fixed media.</description>
+    </item>
+    
+    <item>
+      <title>the unnamable</title>
+      <link>https://alisakobzar.github.io/electronic/unnamable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electronic/unnamable/</guid>
+      <description>fixed media</description>
+    </item>
+    
+    <item>
+      <title>Afflatus</title>
+      <link>https://alisakobzar.github.io/electro-acoustic/afflatus/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/electro-acoustic/afflatus/</guid>
+      <description>For oboe, clarinet , piano, french horn, electronics and lights.
+Ensemble Nostri Termporis, festival in Krakow</description>
+    </item>
+    
+    <item>
+      <title>Quadro</title>
+      <link>https://alisakobzar.github.io/acoustic/quadro/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/acoustic/quadro/</guid>
+      <description>for fl, pno, vn, vc
+timbral stations. imaginative trajectories. a route of sound traces .
+Short excerpt from the performance ( listen here from 91:56 min ) by the ensemble Reflexion K during the Provinzlärm Festival (February 2023, Eckernförde), recorded and transmitted by the Deutschlandsfunk radio.</description>
     </item>
     
     <item>
@@ -317,530 +620,65 @@ for soprano recorder, contrabass Paetzold, flute, bass flute, harp, harpsichord,
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/electro-acoustic/0111/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>4chpieceWalking</title>
-      <link>https://alisakobzar.github.io/electronic/4chpiecewalking/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/4chpiecewalking/</guid>
-      <description>text text text text text text text text text text text text text text text</description>
-    </item>
-    
-    <item>
-      <title>Quadro</title>
-      <link>https://alisakobzar.github.io/acoustic/quadro/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/quadro/</guid>
-      <description>for fl, pno, vn, vc</description>
-    </item>
-    
-    <item>
-      <title>Ab.out</title>
-      <link>https://alisakobzar.github.io/acoustic/ab_out/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/ab_out/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Afflatus</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/afflatus/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/afflatus/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>artificial soundscapes</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/artificialsoundscapes/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/artificialsoundscapes/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>autonomous systems</title>
-      <link>https://alisakobzar.github.io/collaborations/autonomoussystems/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/autonomoussystems/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>autonomous systems</title>
-      <link>https://alisakobzar.github.io/installations/autonomoussystems/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/installations/autonomoussystems/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>bartok-berio-0</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/bartok-berio-0/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/bartok-berio-0/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Bartok-Berio: communication is possible</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/bartok-berio-full/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/bartok-berio-full/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>brodsky</title>
-      <link>https://alisakobzar.github.io/acoustic/brodsky/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/brodsky/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>ChildrenChoir</title>
-      <link>https://alisakobzar.github.io/acoustic/childrenchoir/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/childrenchoir/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>De(zember)</title>
-      <link>https://alisakobzar.github.io/acoustic/dezember/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/dezember/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>divinacommedia</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/divinacommedia/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/divinacommedia/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>doyouhearme</title>
-      <link>https://alisakobzar.github.io/electronic/doyouhearme/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/doyouhearme/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>energy</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/energy/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/energy/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>fearNoMore</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/fearnomore/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/fearnomore/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Gardens of the birds&#39; unfinished songs</title>
-      <link>https://alisakobzar.github.io/acoustic/gardensofthebirdsunfinishedsongs/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/gardensofthebirdsunfinishedsongs/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>gaudeproject</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/gaudeproject/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/gaudeproject/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Harp and orchestra</title>
-      <link>https://alisakobzar.github.io/acoustic/harpandorch/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/harpandorch/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>ifthetreesweredreaming</title>
-      <link>https://alisakobzar.github.io/electronic/ifthetreesweredreaming/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/ifthetreesweredreaming/</guid>
-      <description>for 3 female voices</description>
+      <description>for E-Violin(6-Strings), Cello, Flute, Clarinet, Percussion, 2 MIDI Keyboards with MIDI pedals and electronics.
+performed by the NAMES ensemble (Anna Lindenbaum (E-Violin), Leo Morello (Cello), Marina Iglesias Gonzalo (Flute), Marco Sala (Clarinet), Špela Mastnak (Percussion), Matthias Leboucher (Keyboard), Alexander Bauer (Keyboard)).
+Binaural recording: </description>
     </item>
     
     <item>
       <title>Interference</title>
       <link>https://alisakobzar.github.io/acoustic/interference/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/acoustic/interference/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>interference-2</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/interference2/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/interference2/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>jamais-vu</title>
-      <link>https://alisakobzar.github.io/acoustic/jamais-vu/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/jamais-vu/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>migraine</title>
-      <link>https://alisakobzar.github.io/acoustic/migraine/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/migraine/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>MiniaturesforSolos</title>
-      <link>https://alisakobzar.github.io/acoustic/miniaturesforsolos/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/miniaturesforsolos/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>musicfor2ads</title>
-      <link>https://alisakobzar.github.io/other/musicfor2ads/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/other/musicfor2ads/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>musicfor2trailers</title>
-      <link>https://alisakobzar.github.io/other/musicfor2trailers/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/other/musicfor2trailers/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Ocean</title>
-      <link>https://alisakobzar.github.io/electronic/ocean/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/ocean/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>oceaniam</title>
-      <link>https://alisakobzar.github.io/installations/oceaniam/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/installations/oceaniam/</guid>
-      <description>for 3 female voices</description>
+      <description>For Ensemble Nostri Temporis (fl, ob, cl, horn, vn, vc)</description>
     </item>
     
     <item>
       <title>Ophelia</title>
       <link>https://alisakobzar.github.io/electro-acoustic/ophelia/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/electro-acoustic/ophelia/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Percussion Sonata</title>
-      <link>https://alisakobzar.github.io/acoustic/percussionsonata/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/percussionsonata/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Piano concert</title>
-      <link>https://alisakobzar.github.io/acoustic/pianoconcert/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/pianoconcert/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Piano variations</title>
-      <link>https://alisakobzar.github.io/acoustic/variationsforpno/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/variationsforpno/</guid>
-      <description>for 3 female voices</description>
+      <description>For amplified voice, glass balls, oboe, el. MIDI-guitar</description>
     </item>
     
     <item>
       <title>poetry</title>
       <link>https://alisakobzar.github.io/electro-acoustic/poetry/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/electro-acoustic/poetry/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>privateNetworks</title>
-      <link>https://alisakobzar.github.io/installations/privatenetworks/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/installations/privatenetworks/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>rechtscreibung</title>
-      <link>https://alisakobzar.github.io/electronic/rechtschreibung/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/rechtschreibung/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Rondo for 2 piano</title>
-      <link>https://alisakobzar.github.io/acoustic/rondo2pno/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/rondo2pno/</guid>
-      <description>for 3 female voices</description>
+      <description>for voice and interactive live electronics voice and poetry: Olena Stepanenko</description>
     </item>
     
     <item>
       <title>S</title>
       <link>https://alisakobzar.github.io/acoustic/s/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/acoustic/s/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>schallstrahl</title>
-      <link>https://alisakobzar.github.io/installations/schallstrahl/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/installations/schallstrahl/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>SID</title>
-      <link>https://alisakobzar.github.io/collaborations/sid/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/sid/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>someofthosestories</title>
-      <link>https://alisakobzar.github.io/electronic/someofthosestories/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/someofthosestories/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Sonata for solo violin</title>
-      <link>https://alisakobzar.github.io/acoustic/vnsonata/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/vnsonata/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Sundrops</title>
-      <link>https://alisakobzar.github.io/acoustic/sundrops/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/sundrops/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>surfacestudy1</title>
-      <link>https://alisakobzar.github.io/electronic/surfacestudy1/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/surfacestudy1/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>transmission</title>
-      <link>https://alisakobzar.github.io/electronic/transmission/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/transmission/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>TUER</title>
-      <link>https://alisakobzar.github.io/collaborations/tuer/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/tuer/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>unnamable</title>
-      <link>https://alisakobzar.github.io/electronic/unnamable/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/unnamable/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Variaciivyobrazni</title>
-      <link>https://alisakobzar.github.io/electronic/variaciivyobrazni/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/variaciivyobrazni/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>VeniCreatorSpiritus</title>
-      <link>https://alisakobzar.github.io/acoustic/venicreatorspiritus/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/venicreatorspiritus/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>VeniCreatorSpiritus2</title>
-      <link>https://alisakobzar.github.io/acoustic/venicreatorspiritus2/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/venicreatorspiritus2/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>voxelStudy</title>
-      <link>https://alisakobzar.github.io/electronic/voxelstudy/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/voxelstudy/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>W&#39;air</title>
-      <link>https://alisakobzar.github.io/electro-acoustic/w_air/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electro-acoustic/w_air/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Water_nightdreams</title>
-      <link>https://alisakobzar.github.io/collaborations/possession/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/possession/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>Water_nightdreams</title>
-      <link>https://alisakobzar.github.io/collaborations/water_nightdreams/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/collaborations/water_nightdreams/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>whetherornot</title>
-      <link>https://alisakobzar.github.io/electronic/whetherornot/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/whetherornot/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>xy</title>
-      <link>https://alisakobzar.github.io/acoustic/xy/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/acoustic/xy/</guid>
-      <description>for 3 female voices</description>
-    </item>
-    
-    <item>
-      <title>yourtitle</title>
-      <link>https://alisakobzar.github.io/electronic/yourtitle/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
-      
-      <guid>https://alisakobzar.github.io/electronic/yourtitle/</guid>
-      <description>for 3 female voices</description>
+      <description>for 3 female voices
+„S“ is short for Sanbiki no saru. Sanbiki no saru (literally “three monkeys”), sometimes called the three mystic apes, are a pictorial maxim. Together they embody the proverbial principle “See no evil, hear no evil, speak no evil”. The three monkeys are Mizaru, covering his eyes, who sees no evil; Kikazaru, covering his ears, who hears no evil; and Iwazaru, covering his mouth, who speaks no evil.</description>
     </item>
     
     <item>
       <title>As soon as (Paradise)</title>
       <link>https://alisakobzar.github.io/acoustic/assoonasparadise/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:32 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>https://alisakobzar.github.io/acoustic/assoonasparadise/</guid>
       <description>for horn and bass trombone
 „…As soon as I want to make this instant moment Perfect Paradise and real dawn by looking back myself inside.“ - Ch.Olson</description>
+    </item>
+    
+    <item>
+      <title>De(zember)</title>
+      <link>https://alisakobzar.github.io/acoustic/dezember/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisakobzar.github.io/acoustic/dezember/</guid>
+      <description>for pianist and assistant (performed by A.Shmurak and A.Kobzar)</description>
     </item>
     
   </channel>
