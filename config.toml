@@ -10,7 +10,7 @@ theme = "digitalgarden"
 
 [menu]
 [[menu.main]]
-  name = 'Agenda'
+  name = 'info'
   url = '/'
   weight = 1
 
